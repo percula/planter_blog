@@ -2,7 +2,7 @@
   "title": "{{ .Title }}",
   "author": "{{ .Params.author }}",
   "image": {
-    "url" : "https://planter.garden{{.Params.cover.image }}",
+    "url" : "https://blog.planter.garden{{.Params.cover.image }}",
     "caption" : "{{ .Params.cover.caption }}",
     "alt" : "{{ .Params.cover.alt }}"
   },
