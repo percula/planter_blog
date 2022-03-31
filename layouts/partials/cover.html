@@ -5,7 +5,7 @@
     {{- $responsiveImages := (.Params.cover.responsiveImages | default site.Params.cover.responsiveImages) | default true }}
     {{- $addLink := (and site.Params.cover.linkFullImages (not $.IsHome)) }}
     {{- $prefix := print "/uploads/" }}
-    {{- $cover := ($.cxt.Site.GetPage "section" "NOTuploads").Resources.GetMatch (strings.TrimPrefix $prefix .Params.cover.image ) }}
+    {{- $cover := ($.cxt.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix $prefix .Params.cover.image ) }}
     {{- if $cover -}}{{/* i.e it is present in page bundle */}}
         {{- if $addLink }}<a href="{{ (path.Join .RelPermalink .Params.cover.image) | absURL }}" target="_blank"
             rel="noopener noreferrer">{{ end -}}
@@ -18,11 +18,11 @@
         {{- if (and (in $processableFormats $cover.MediaType.SubType) ($responsiveImages) (eq $prod true)) }}
         <img loading="lazy" srcset="{{- range $size := $sizes -}}
                         {{- if (ge $cover.Width $size) -}}
-                        {{ printf "%s %s" (($cover.Resize (printf "%sx" $size)).Permalink) (printf "%sw," $size) -}}
+                        {{ printf "%s %s" (($cover.Resize (printf "%sx" $size)).RelPermalink) (printf "%sw," $size) -}}
                         {{ end }}
-                    {{- end -}}{{$cover.Permalink }} {{printf "%dw" ($cover.Width)}}"
-            sizes="(min-width: 768px) 720px, 100vw" src="{{ $cover.Permalink }}" alt="{{ $alt }}"
-            width="{{ $cover.Width }}" height="{{ $cover.Height }}">
+                    {{- end -}}{{$cover.RelPermalink }} {{printf "%dw" ($cover.Width)}}"
+            sizes="(min-width: 768px) 720px, 100vw" src="{{ $cover.RelPermalink }}" alt="{{ $alt }}"
+            width="{{ $cover.Width }}">
         {{- else }}{{/* Unprocessable image or responsive images disabled */}}
         <img loading="lazy" src="{{ (path.Join .RelPermalink .Params.cover.image) | absURL }}" alt="{{ $alt }}">
         {{- end }}
