@@ -13,6 +13,8 @@ When starting a garden, understanding the growing climate in your area is an imp
 
 ### What are Plant Hardiness Zones?
 
+![](/uploads/all_states_halfzones_poster_300dpi.jpg "Source: https://planthardiness.ars.usda.gov/pages/map-downloads")
+
 In North America, plant hardiness zones commonly refer to the US Department of Agriculture (USDA) Plant Hardiness Zones. Canada has developed its own hardiness zone system, but for practical purposes the USDA zones are commonly used. There are many plant hardiness zone systems in use around the world.
 
 The USDA Plant Hardiness Zone Map divides the USA and [North America](https://gpsr.ars.usda.gov/phzm/md/northamerica.jpg) into zones based on average annual minimum temperatures. The lower the zone number, the lower the average annual minimum temperature in that area. There is a 10°F difference in the average annual minimum temperature between each zone. Zones are further subdivided into 5°F segments denoted by “a” or “b”.
@@ -22,8 +24,6 @@ Hardiness zones are a guideline for determining which perennial plants can survi
 USDA hardiness zones don’t consider the myriad of other factors that affect how a plant will perform in a particular area. They also don’t account for “microclimates”- local variations on growing conditions within a zone. Hardiness zones are a starting point, but experience will hone your instincts for which plants will flourish in your garden.
 
 ### Frost Dates: Why Do They Matter?
-
-![](/uploads/all_states_halfzones_poster_300dpi.jpg "Source: https://planthardiness.ars.usda.gov/pages/map-downloads")
 
 If you garden in a temperate climate, another important piece of information to know is your last and first frost dates. The last frost date is the last day in spring when a frost occurs (i.e., when air temperatures reach 32°F or lower). The first frost date is the first day in fall when a frost occurs. Frost dates can be estimated by using average historical frost dates from local weather stations.
 
