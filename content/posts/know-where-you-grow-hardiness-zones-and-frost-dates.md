@@ -32,4 +32,4 @@ The number of days between your last and first frost date is the length of your 
 
 [Planter](https://planter.garden/) does the work of calculating this for you! First, [set-up your location in the app settings](https://info.planter.garden/calendar). For each plant, [Planter](https://planter.garden/) provides a Growing Calendar that is customized to your location. The Growing Calendar shows which plants can be started outdoors, which should be started indoors and transplanted, and when:
 
-![](/uploads/screenshot_20220331.jpg)
+![](https://lh3.googleusercontent.com/f9-NA_ghVjD5hSLiJLVlSxYjVx3dEQXux8JCi4Qmt7Zuncvkk049_ea1BvirMlPRWxKoM3jaE9u0oLUs-_pNr0jIISA0XEi-HVhZOiZ-akD4nvGxetWZ4lGPb-HJ7Rw3zALsZh19 =602x399)
