@@ -13,7 +13,7 @@ When starting a garden, understanding the growing climate in your area is an imp
 
 ### What are Plant Hardiness Zones?
 
-![](https://lh5.googleusercontent.com/eN9XlVs4Sn7C2Eik1nDINq_kozzrcWG83Bk0d8eLrqgIQm3Ojh-BH9z-i247k4eogwknTVWGXKf2ln9aYaTF4WhVWfhgdRdZD9goANN9BdGh1gwdt4huq4TkeEKi1YS9BhvOVdQz "Source: https://planthardiness.ars.usda.gov/pages/map-downloads" =602x401)In North America, plant hardiness zones commonly refer to the US Department of Agriculture (USDA) Plant Hardiness Zones. Canada has developed its own hardiness zone system, but for practical purposes the USDA zones are commonly used. There are many plant hardiness zone systems in use around the world.
+In North America, plant hardiness zones commonly refer to the US Department of Agriculture (USDA) Plant Hardiness Zones. Canada has developed its own hardiness zone system, but for practical purposes the USDA zones are commonly used. There are many plant hardiness zone systems in use around the world.
 
 The USDA Plant Hardiness Zone Map divides the USA and [North America](https://gpsr.ars.usda.gov/phzm/md/northamerica.jpg) into zones based on average annual minimum temperatures. The lower the zone number, the lower the average annual minimum temperature in that area. There is a 10°F difference in the average annual minimum temperature between each zone. Zones are further subdivided into 5°F segments denoted by “a” or “b”.
 
@@ -23,6 +23,8 @@ USDA hardiness zones don’t consider the myriad of other factors that affect ho
 
 ### Frost Dates: Why Do They Matter?
 
+![](/uploads/all_states_halfzones_poster_300dpi.jpg "Source: https://planthardiness.ars.usda.gov/pages/map-downloads")
+
 If you garden in a temperate climate, another important piece of information to know is your last and first frost dates. The last frost date is the last day in spring when a frost occurs (i.e., when air temperatures reach 32°F or lower). The first frost date is the first day in fall when a frost occurs. Frost dates can be estimated by using average historical frost dates from local weather stations.
 
 Knowing your average last frost date helps you decide when to start planting your frost-sensitive crops outdoors. Deciding when to plant also depends on how willing you are to risk a late frost! Again, with experience you’ll be able to dial in the best time to plant in your area.
@@ -31,4 +33,4 @@ The number of days between your last and first frost date is the length of your 
 
 [Planter](https://planter.garden/) does the work of calculating this for you! First, [set-up your location in the app settings](https://info.planter.garden/calendar). For each plant, [Planter](https://planter.garden/) provides a Growing Calendar that is customized to your location. The Growing Calendar shows which plants can be started outdoors, which should be started indoors and transplanted, and when:
 
-![](https://lh3.googleusercontent.com/f9-NA_ghVjD5hSLiJLVlSxYjVx3dEQXux8JCi4Qmt7Zuncvkk049_ea1BvirMlPRWxKoM3jaE9u0oLUs-_pNr0jIISA0XEi-HVhZOiZ-akD4nvGxetWZ4lGPb-HJ7Rw3zALsZh19 =602x399)
+![](/uploads/screenshot_20220331.jpg)
