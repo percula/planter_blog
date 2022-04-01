@@ -31,6 +31,6 @@ Knowing your average last frost date helps you decide when to start planting you
 
 The number of days between your last and first frost date is the length of your growing season. Depending on the length of your growing season, plants that take longer to mature may need a head start indoors.
 
-[Planter](https://planter.garden/) does the work of calculating this for you! First, [set-up your location in the app settings](https://info.planter.garden/calendar). For each plant, [Planter](https://planter.garden/) provides a Growing Calendar that is customized to your location. The Growing Calendar shows which plants can be started outdoors, which should be started indoors and transplanted, and when:
+[Planter](https://planter.garden/) does the work of calculating this for you! First, [set-up your location](https://info.planter.garden/calendar) in the app settings. For each plant, [Planter](https://planter.garden/) provides a Growing Calendar that is customized to your location. The Growing Calendar shows which plants can be started outdoors, which should be started indoors and transplanted, and when:
 
 ![](/uploads/screenshot_20220331.jpg)
