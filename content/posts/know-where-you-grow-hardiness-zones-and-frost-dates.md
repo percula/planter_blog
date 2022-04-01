@@ -1,8 +1,7 @@
 +++
 author = "Erin Thomson"
 date = 2022-04-01T04:00:00Z
-draft = true
-title = "Know Where You Grow:  Hardiness Zones and Frost Dates"
+title = "Know Where You Grow: Hardiness Zones and Frost Dates"
 weight = 1
 [cover]
 alt = ""
