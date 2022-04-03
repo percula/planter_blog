@@ -15,6 +15,9 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@main
+      - uses: jruipinto/ImageMagick-action@v1
+        with:
+          command: mogrify -path content/test/ -resize x1440\> content/test/*.*
       - name: Compress Images
         uses: calibreapp/image-actions@main
         with:
