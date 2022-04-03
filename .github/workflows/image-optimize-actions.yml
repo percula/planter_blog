@@ -21,7 +21,7 @@ jobs:
         uses: actions/checkout@main
       - uses: jruipinto/ImageMagick-action@v1
         with:
-          command: mogrify -path content/test/ -resize x1440> content/test/*.*
+          command: mogrify -path content/uploads/ -resize 1080x1080> content/uploads/*.*
       - name: Compress Images
         uses: calibreapp/image-actions@main
         with:
