@@ -4,10 +4,14 @@ on:
     branches:
       - main
     paths:
-      - 'content/**/**.jpg'
-      - 'content/**/**.jpeg'
-      - 'content/**/**.png'
-      - 'content/**/**.webp'
+      - 'content/uploads/**.jpg'
+      - 'content/uploads/**.jpeg'
+      - 'content/uploads/**.png'
+      - 'content/uploads/**.webp'
+      - 'content/test/**.jpg'
+      - 'content/test/**.jpeg'
+      - 'content/test/**.png'
+      - 'content/test/**.webp'
 jobs:
   build:
     name: optimize-images
