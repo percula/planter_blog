@@ -19,9 +19,16 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@main
-      - uses: jruipinto/ImageMagick-action@v1
+      - name: Resize Images
+        id: resize-images
+
+        # You can change the version as well
+        uses: gonzalonaveira/gh-image-resizing@master
         with:
-          command: mogrify -path content/uploads/ -resize 1080x1080> content/uploads/*.*
+          IMAGES_MAX_WIDTH: "1080"
+          IMAGES_QUALITY: "80"
+          IMAGES_FORMATS: "jpg, jpeg, png, webp" 
+          IMAGES_DIRECTORIES: "content/test"
       - name: Compress Images
         uses: calibreapp/image-actions@main
         with:
