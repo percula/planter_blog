@@ -20,6 +20,7 @@ jobs:
         with:
           githubToken: ${{ secrets.GITHUB_TOKEN }}
           compressOnly: true
+          ignorePaths: '!content/uploads/**,**'
       - name: Commit changes direct to main
         run: |
           echo "Committing compressed images"
