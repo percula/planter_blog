@@ -4,20 +4,20 @@ on:
     branches:
       - main
     paths:
-      - 'content/uploads/**.jpg'
-      - 'content/uploads/**.jpeg'
-      - 'content/uploads/**.png'
-      - 'content/uploads/**.webp'
+      - 'content/**/**.jpg'
+      - 'content/**/**.jpeg'
+      - 'content/**/**.png'
+      - 'content/**/**.webp'
 jobs:
   build:
-    name: calibreapp/image-actions
+    name: optimize-images
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
         uses: actions/checkout@main
       - uses: jruipinto/ImageMagick-action@v1
         with:
-          command: mogrify -path content/test/ -resize x1440\> content/test/*.*
+          command: mogrify -path content/test/ -resize x1440> content/test/*.*
       - name: Compress Images
         uses: calibreapp/image-actions@main
         with:
