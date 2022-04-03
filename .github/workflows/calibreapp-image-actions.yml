@@ -1,8 +1,8 @@
-name: Compress Images on Push to Master with Commit
+name: Compress Images on Push to Main with Commit
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - 'content/uploads/**.jpg'
       - 'content/uploads/**.jpeg'
@@ -14,14 +14,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@master
+        uses: actions/checkout@main
       - name: Compress Images
         id: calibre
         uses: calibreapp/image-actions@master
         with:
           githubToken: ${{ secrets.GITHUB_TOKEN }}
           compressOnly: true
-      - name: Commit changes direct to master
+      - name: Commit changes direct to main
         run: |
           echo "Committing compressed images"
           git config --global user.email "16809252+percula@users.noreply.github.com"
