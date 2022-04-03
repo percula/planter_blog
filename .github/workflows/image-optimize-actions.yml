@@ -21,20 +21,12 @@ jobs:
         uses: actions/checkout@main
       - name: Resize Images
         id: resize-images
-
-        # You can change the version as well
         uses: gonzalonaveira/gh-image-resizing@master
         with:
           IMAGES_MAX_WIDTH: "1080"
           IMAGES_QUALITY: "80"
           IMAGES_FORMATS: "jpg, jpeg, png, webp" 
-          IMAGES_DIRECTORIES: "content/test"
-      - name: Compress Images
-        uses: calibreapp/image-actions@main
-        with:
-          githubToken: ${{ secrets.GITHUB_TOKEN }}
-          compressOnly: true
-          ignorePaths: '!content/uploads/**,**'
+          IMAGES_DIRECTORIES: "content/uploads"
       - name: Commit changes direct to main
         run: |
           echo "Committing compressed images"
