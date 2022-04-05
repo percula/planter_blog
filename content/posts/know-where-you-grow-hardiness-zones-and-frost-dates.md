@@ -9,11 +9,11 @@ caption = "Frost-covered plant leaves"
 image = "/uploads/leaves-with-frost.jpg"
 
 +++
-When starting a garden, understanding the growing climate in your area is an important first step. There are two key pieces of information to know about your local growing climate: your hardiness zone and frost dates. While sometimes represented together, hardiness zones and frost dates are distinct concepts. Read on to learn about what they are and why they matter for a successful garden.
+When starting a garden, understanding the growing climate in your area is an important first step. There are two key pieces of information to know about your local growing climate: your hardiness zone and frost dates. While sometimes represented together, hardiness zones and frost dates are separate concepts. Read on to learn what they are and why they matter for a successful garden.
 
 ### What are Plant Hardiness Zones?
 
-![](/uploads/all_states_halfzones_poster_300dpi.jpg "Source: https://planthardiness.ars.usda.gov/pages/map-downloads")
+![](/uploads/usda-growing-zones-map.jpg "Source: https://planthardiness.ars.usda.gov/pages/map-downloads")
 
 In North America, plant hardiness zones commonly refer to the US Department of Agriculture (USDA) Plant Hardiness Zones. Canada has developed its own hardiness zone system, but for practical purposes the USDA zones are commonly used. There are many plant hardiness zone systems in use around the world.
 
@@ -25,7 +25,7 @@ USDA hardiness zones don’t consider the myriad of other factors that affect ho
 
 ### Frost Dates: Why Do They Matter?
 
-If you garden in a temperate climate, another important piece of information to know is your last and first frost dates. The last frost date is the last day in spring when a frost occurs (i.e., when air temperatures reach 32°F or lower). The first frost date is the first day in fall when a frost occurs. Frost dates can be estimated by using average historical frost dates from local weather stations.
+If you garden in a temperate climate, it is important to understand your first and last frost dates. The last frost date is the last day in spring when a frost occurs (i.e., when air temperatures reach 32°F or lower). The first frost date is the first day in fall when a frost occurs. Frost dates can be estimated by using average historical frost dates from local weather stations.
 
 Knowing your average last frost date helps you decide when to start planting your frost-sensitive crops outdoors. Deciding when to plant also depends on how willing you are to risk a late frost! Again, with experience you’ll be able to dial in the best time to plant in your area.
 
