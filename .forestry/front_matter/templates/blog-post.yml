@@ -56,6 +56,7 @@ fields:
   description: "(optional) Used to determine the order of the posts. Use a lower value
     such as 1 to pin the post. Defaults to 5."
 pages:
+- content/posts/cold-hardy-crops-for-early-spring.md
 - content/posts/how-to-start-seeds-indoors.md
 - content/posts/know-where-you-grow-hardiness-zones-and-frost-dates.md
 - content/posts/preparing-your-garden-for-winter.md
