@@ -1,7 +1,7 @@
 +++
 author = "Erin Thomson"
 date = 2022-04-05T04:00:00Z
-title = "Cold Hardy Crops for Early Spring"
+title = "Cold-Hardy Crops for Early Spring"
 weight = 1
 [cover]
 alt = ""
