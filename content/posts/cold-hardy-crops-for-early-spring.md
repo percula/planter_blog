@@ -37,6 +37,6 @@ Even if the ground is warm enough to plant, there is no guarantee that the weath
 
 Prior to planting cool season crops, prepare the bed by working in compost and a slow-release, all-purpose fertilizer. Depending on the crop, you may need to re-apply fertilizer every several weeks.
 
-Although it’s not warm out, be on the lookout for dry conditions. If there isn’t enough rainfall, provide sufficient water to keep the ground consistently moist
+Although it may not be warm out, still be on the lookout for dry conditions. If there isn’t enough rainfall, provide sufficient water to keep the ground consistently moist
 
 Take full advantage of the early spring growing season - don’t miss out on delicious harvests of cold-hardy crops!
