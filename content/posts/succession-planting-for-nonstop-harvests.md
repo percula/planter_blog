@@ -29,7 +29,7 @@ There are four common succession planting techniques:
 
 ![](/uploads/carrots-with-dirt.jpg)
 
-Which crops you can succession plant depends on the length of your growing season and which succession planting technique you are using. Staggered planting is common with lettuce, radishes, legumes, kale, chard, beets, and carrots, to name a few.
+Which crops you can succession plant depends on the length of your growing season and on the succession planting technique you are using. Staggered planting is common with lettuce, radishes, legumes, kale, chard, beets, and carrots, to name a few.
 
 As the weather starts to warm up, gardeners often replace spent cool season crops like cilantro and spinach with heat-loving crops such as tomatoes, eggplants, and peppers; and vice-versa as the weather starts to cool down again.
 
