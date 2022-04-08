@@ -1,7 +1,6 @@
 +++
 author = "Erin Thomson"
 date = 2022-04-08T04:00:00Z
-draft = true
 title = "Succession Planting for Nonstop Harvests"
 weight = 1
 [cover]
