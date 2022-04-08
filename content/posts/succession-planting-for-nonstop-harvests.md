@@ -9,9 +9,9 @@ caption = "Fresh radish harvest"
 image = "/uploads/radishes-with-dirt.jpg"
 
 +++
-### What is Succession Planting?
-
 For many gardeners, the gardening season starts with a big trip to the garden center and planting garden beds chock full of veggies, followed by watering and waiting for harvest time. However, to make the most of the growing season one of the most important techniques to master is succession planting.
+
+### What is Succession Planting?
 
 Succession planting refers to planting crops so they mature at different times rather than all at once. Succession planting offers a number of benefits, including: continuous harvests rather than one big glut, maximizing the use of garden space, taking advantage of the entire growing season, and providing some insurance in case one crop planting fails. In short, planting in succession ensures that your garden is consistently producing harvests.
 
