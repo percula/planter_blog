@@ -41,7 +41,7 @@ Potatoes are an example of a crop that has different varieties with different da
 
 Planning for succession planting can be as simple or as detailed as you want!
 
-In its simplest form, remove spent crops and plant season-appropriate crops in their place. With the full features of [Planter](https://planter.garden/) you can create unlimited versions of your gardens, to plan ahead for which plants will be removed and which will take their place. Planning ahead is especially helpful if you want to start replacement seedlings indoors.
+In its simplest form, remove spent crops and plant season-appropriate crops in their place. With the full features of [Planter](https://planter.garden/), you can create unlimited versions of your gardens to plan ahead for which plants will be removed and which will take their place. Planning ahead is especially helpful if you want to start replacement seedlings indoors.
 
 Staggered planting is also straightforward, but requires saving space in the garden to have open spots to plant into every few weeks. [Planter](https://planter.garden/) can help you keep track of which spaces in your garden are still available for planting.
 
