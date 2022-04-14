@@ -15,7 +15,7 @@ Gardening typically involves a lot of effort to manipulate the soil - rototillin
 
 No-till gardening aims to disturb the soil as little as possible when building and maintaining a garden.
 
-The main reason for wanting to minimize soil disruption is to protect the soil food web - a vast, complex ecosystem of worms, insects, bacteria, and fungi that all work together to improve the quality of the soil for plant growth. Earthworms, for example, are prolific diggers. They aerate the soil and bring nutrients from the upper soil layers down to deeper layers, making it easier for plant roots to grow and to uptake nutrients. Fungi also form a crucial part of plant root systems. They reach water and nutrients that the plant roots simply can’t, and they give these nutrients to the plant in exchange for simple sugars produced by the plant.
+The main reason for wanting to minimize soil disruption is to protect the soil food web - a vast, complex ecosystem of worms, insects, bacteria, and fungi that all work together to improve the quality of the soil for plant growth. Earthworms, for example, are prolific diggers. They aerate the soil and bring nutrients from the upper soil layers down to deeper layers, making it easier for plant roots to grow and to uptake nutrients. Fungi also form part of plant root systems. They reach water and nutrients that the plant roots simply can’t, and they give these nutrients to the plant in exchange for simple sugars produced by the plant.
 
 With organisms doing all this crucial work in the soil, it only makes sense to do everything we can to feed and nurture them rather than destroying them!
 
