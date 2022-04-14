@@ -33,7 +33,7 @@ In addition, no-till gardening offers several environmental benefits such as ret
 
 Some well-known no-till gardening methods are:
 
-[**No-dig gardening**](https://charlesdowding.co.uk/)**:** popularized by Charles Dowding in the UK, this method relies on using a layer of cardboard to suppress weed growth, covered with several inches of fully broken-down compost on top.
+[**No-dig gardening**](https://charlesdowding.co.uk/)**:** popularized by Charles Dowding in the UK, this method relies on using layers of cardboard to suppress weed growth, covered with several inches of fully broken-down compost on top.
 
 [**Lasagna gardening**](https://www.amazon.com/Lasagna-Gardening-Layering-Bountiful-Gardens/dp/0875969623/ref=sr_1_1?crid=3T10U5RY0BHQ&keywords=lasagna+gardening&qid=1649903244&sprefix=lasagna+gardening%2Caps%2C88&sr=8-1)**:** this method was developed by Patricia Lanza. [Mentioned in an earlier post](https://blog.planter.garden/posts/soil-options-for-raised-bed-gardening/), the technique is similar to no-dig except it uses alternating layers of uncomposted nitrogen-rich and carbon-rich organic materials which will break down directly in the bed.
 
