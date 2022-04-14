@@ -9,9 +9,11 @@ caption = "Digging the garden - is it really needed?"
 image = "/uploads/shovel-in-dirt.jpg"
 
 +++
+Gardening typically involves a lot of effort to manipulate the soil - rototilling, digging, cultivating, raking. Conventional thinking is that churning up the soil gives plants a more favorable environment to grow in; by loosening it, improving drainage, and tilling in compost and green manures. But what if all this work was not necessary and was actually degrading the soil? That’s where no-till gardening comes in.
+
 ### What is No-Till Gardening?
 
-Gardening typically involves a lot of effort to manipulate the soil - rototilling, digging, cultivating, raking. Conventional thinking is that churning up the soil gives plants a more favorable environment to grow in; by loosening it, improving drainage, and tilling in compost and green manures. But what if all this work was not necessary and was actually degrading the soil? That’s where no-till gardening comes in. No-till gardening aims to disturb the soil as little as possible when building and maintaining a garden.
+No-till gardening aims to disturb the soil as little as possible when building and maintaining a garden.
 
 The main reason for wanting to minimize soil disruption is to protect the soil food web - a vast, complex ecosystem of worms, insects, bacteria, and fungi that all work together to improve the quality of the soil for plant growth. Earthworms, for example, are prolific diggers. They aerate the soil and bring nutrients from the upper soil layers down to deeper layers, making it easier for plant roots to grow and to uptake nutrients. Fungi also form a crucial part of plant root systems. They reach water and nutrients that the plant roots simply can’t, and they give these nutrients to the plant in exchange for simple sugars produced by the plant.
 
