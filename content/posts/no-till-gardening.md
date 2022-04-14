@@ -2,7 +2,7 @@
 author = "Erin Thomson"
 date = 2022-04-13T04:00:00Z
 draft = true
-title = "No-Till Gardening"
+title = "No-Till Gardening: Save Your Soil!"
 weight = 1
 [cover]
 alt = ""
@@ -20,7 +20,9 @@ With organisms doing all this crucial work in the soil, it only makes sense to d
 
 ### What are the Benefits of No-Till Gardening?
 
-Doing away with tilling and digging eliminates most of the backbreaking gardening work! If that alone isn’t enough to convince you, there are many added perks with no-till gardening:
+![Soil in hands](/uploads/soil-in-hands.jpg)
+
+Doing away with tilling and digging eliminates most of the backbreaking gardening work! If that isn’t enough to convince you, there are many added perks with no-till gardening:
 
 With proper techniques and vigilance weed and pest problems are reduced, owing to having healthy soil and resilient plants. Less watering is required and drainage is improved, as soil with plenty of organic matter is able to hold onto the optimal amount of water for plants. No-till also eliminates the need to rely on chemical fertilizers to compensate for problems that arise from overworked, lifeless soil.
 
@@ -30,9 +32,9 @@ In addition, no-till gardening offers several environmental benefits such as ret
 
 Some well-known no-till gardening methods are:
 
-[**No-dig gardening**](https://charlesdowding.co.uk/)**:** popularized by Charles Dowding in the UK, this method relies on using a layer of cardboard to suppress weed growth with a 5” layer of fully broken-down compost on top.
+[**No-dig gardening**](https://charlesdowding.co.uk/)**:** popularized by Charles Dowding in the UK, this method relies on using a layer of cardboard to suppress weed growth, covered with several inches of fully broken-down compost on top.
 
-[**Lasagna gardening**](https://www.amazon.com/Lasagna-Gardening-Layering-Bountiful-Gardens/dp/0875969623/ref=sr_1_1?crid=3T10U5RY0BHQ&keywords=lasagna+gardening&qid=1649903244&sprefix=lasagna+gardening%2Caps%2C88&sr=8-1)**:** this method was developed by Patricia Lanza. Mentioned in an earlier post, the technique is similar to no-dig except it uses alternating layers of uncomposted nitrogen-rich and carbon-rich organic materials which will break down directly in the bed.
+[**Lasagna gardening**](https://www.amazon.com/Lasagna-Gardening-Layering-Bountiful-Gardens/dp/0875969623/ref=sr_1_1?crid=3T10U5RY0BHQ&keywords=lasagna+gardening&qid=1649903244&sprefix=lasagna+gardening%2Caps%2C88&sr=8-1)**:** this method was developed by Patricia Lanza. [Mentioned in an earlier post](https://blog.planter.garden/posts/soil-options-for-raised-bed-gardening/), the technique is similar to no-dig except it uses alternating layers of uncomposted nitrogen-rich and carbon-rich organic materials which will break down directly in the bed.
 
 [**The no-work garden**](https://www.amazon.com/Ruth-Stout-No-Work-Garden-Classics-ebook/dp/B0973JMG3K/ref=sr_1_4?crid=2R02N57HZ8J3H&keywords=no-work+garden&qid=1649903264&sprefix=no-work+garden%2Caps%2C80&sr=8-4)**:** this method was developed by Ruth Stout. It relies on the use of mulch material such as organic straw, that will readily break down and feed the soil.
 
