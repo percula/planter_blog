@@ -33,7 +33,7 @@ The first thing to consider is their habitat. Some types of bees need exposed so
 
 Pollinators need flowers in the garden as a food source, but the types of flowers make a difference. Having a variety of native flowers with many different colors and petal shapes is very attractive to pollinators. Be aware that some ornamental flowering shrubs produce flowers that are sterile which do not provide any food for pollinators.
 
-When planting flowers to attract pollinators, consider incorporating them directly in the veggie garden! Planting flowers amongst the vegetable plants can offer many benefits. Not only can they attract pollinators, they can also attract other beneficial insects and ward off pests. Nasturtiums and borage are classic companion plants that attract pollinators, and they are also edible! Be careful not to plant invasive flowering plants such as mint in a space where you don’t want them to take over, though.
+When planting flowers to attract pollinators, consider incorporating them directly in the veggie garden! Planting flowers amongst the vegetable plants offers many benefits. Not only can they attract pollinators, they can also attract other beneficial insects and ward off pests. Nasturtiums and borage are classic companion plants that attract pollinators, and they are also edible! Be careful not to plant invasive flowering plants such as mint in a space where you don’t want them to take over, though.
 
 [Planter](https://planter.garden/) has several types of flowers and flowering herbs listed and will tell you which vegetable plants pair well with them! If there is a type or variety missing, you can submit a request in Settings in [Planter](https://planter.garden/) to have it added.
 
