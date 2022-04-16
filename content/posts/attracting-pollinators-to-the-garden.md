@@ -21,7 +21,7 @@ Wind pollinated plants, such as corn and wheat, do not need help from pollinator
 
 Plants with incomplete flowers, such as cucumbers, squash, and melons, have separate male and female flowers. These plants depend entirely on pollinators to move the pollen from the male flowers onto the female flowers; they will not produce well if there are not sufficient pollinators around. Hand pollination is an option, and some gardeners will do this especially when saving seed, but it’s easiest to have pollinators take care of this job for you!
 
-Some types of fruit trees and shrubs are ‘self-unfruitful’ which means they require another compatible plant of a different variety to cross-pollinate with. They cannot use their own pollen or pollen of any plant of the same variety to produce fruit and seeds. Others are ‘self-fruitful’ and can use their own pollen to produce fruit. Or, there are some that simply produce better with pollen from another variety. In all cases though, pollinators play a key role in helping fruit trees and shrubs transfer pollen to produce fruit.
+Some types of fruit trees and shrubs are ‘self-unfruitful’ which means they require another compatible plant of a different variety to cross-pollinate with. They cannot use their own pollen or pollen of any plant of the same variety to produce fruit and seeds. Others are ‘self-fruitful’ and can use their own pollen to produce fruit. Or, there are some that simply produce better with pollen from another variety. In all cases, pollinators play a key role in helping fruit trees and shrubs transfer pollen to produce fruit.
 
 ### How To Attract Pollinators
 
