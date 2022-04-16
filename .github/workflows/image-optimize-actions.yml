@@ -32,5 +32,9 @@ jobs:
           echo "Committing compressed images"
           git config --global user.email "16809252+percula@users.noreply.github.com"
           git config --global user.name "Peter"
+          git stash clear
+          git stash
+          git pull
+          git stash pop
           git diff-index --quiet HEAD || git commit -am "Compressing images"
           git push
