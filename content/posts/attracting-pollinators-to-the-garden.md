@@ -15,7 +15,7 @@ Many types of plants depend on pollinators such as bees, butterflies, and hummin
 
 To understand why pollinators are important in the garden, we first need to understand which plants rely on them.
 
-Self-pollinating plants, such as tomatoes and peppers, have complete flowers with both male and female parts. Pollen will fall from the male parts to the female parts with gravity and a breeze; they are not dependent on help from pollinators. Even though self-pollinating plants do not require pollinators to produce fruit, pollinators will help to ensure more complete pollination and better yields.
+Self-pollinating plants, such as tomatoes and peppers, have complete flowers with both male and female parts. Pollen will fall from the male parts to the female parts with gravity and a breeze; they are not dependent on help from pollinators. Even though self-pollinating plants do not require pollinators to produce fruit, pollinators do help to ensure more complete pollination and better yields.
 
 Wind pollinated plants, such as corn and wheat, do not need help from pollinators. Wind pollinated plants tend to be agricultural crops not as commonly grown in the home garden
 
