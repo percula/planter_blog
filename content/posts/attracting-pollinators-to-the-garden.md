@@ -9,8 +9,6 @@ caption = "Bee with pollen on an echinacea flower"
 image = "/uploads/bee-on-echinacea.jpg"
 
 +++
-### ![](https://lh5.googleusercontent.com/RU4ZK-R0NpSfCzWfl0kzCPdU7d2wOQlYEojFseJ6dUM9_t_DrgFc4-lvzNBTX7_iMfYKhDhXV8xGFv1z0kWYmSTlNSdGx4CTVQcRYcYnIug0Hh5KrOOQ_Jqv0HDKnYWgtyFLS_DB =602x339)
-
 Many types of plants depend on pollinators such as bees, butterflies, and hummingbirds to pollinate their flowers so they can produce fruit and seeds. To get the best harvests possible, there are steps we can take as gardeners to encourage more pollinators to visit our garden.
 
 ### Why Are Pollinators Important in the Garden?
