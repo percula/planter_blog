@@ -1,7 +1,6 @@
 +++
 author = "Erin Thomson"
 date = 2022-04-16T04:00:00Z
-draft = true
 title = "Attracting Pollinators to the Garden"
 weight = 1
 [cover]
@@ -12,7 +11,7 @@ image = "/uploads/bee-on-echinacea.jpg"
 +++
 ### ![](https://lh5.googleusercontent.com/RU4ZK-R0NpSfCzWfl0kzCPdU7d2wOQlYEojFseJ6dUM9_t_DrgFc4-lvzNBTX7_iMfYKhDhXV8xGFv1z0kWYmSTlNSdGx4CTVQcRYcYnIug0Hh5KrOOQ_Jqv0HDKnYWgtyFLS_DB =602x339)
 
-Many types of plants depend on pollinators such as bees, butterflies, and hummingbirds to pollinate their flowers so they can produce fruit and seeds. To get the best harvests possible, gardeners should take steps to encourage pollinators to visit our garden.
+Many types of plants depend on pollinators such as bees, butterflies, and hummingbirds to pollinate their flowers so they can produce fruit and seeds. To get the best harvests possible, there are steps we can take as gardeners to encourage more pollinators to visit our garden.
 
 ### Why Are Pollinators Important in the Garden?
 
@@ -38,7 +37,7 @@ Pollinators need flowers in the garden as a food source, but the types of flower
 
 When planting flowers to attract pollinators, consider incorporating them directly in the veggie garden! Planting flowers amongst the vegetable plants can offer many benefits. Not only can they attract pollinators, they can also attract other beneficial insects and ward off pests. Nasturtiums and borage are classic companion plants that attract pollinators, and they are also edible! Be careful not to plant invasive flowering plants such as mint in a space where you don’t want them to take over, though.
 
-[Planter](https://planter.garden/) has several varieties of flowers and flowering herbs listed and will tell you which vegetable plants they are good companions for! If there is a flower variety missing, you can submit a request in Settings in [Planter](https://planter.garden/) to have it added.
+[Planter](https://planter.garden/) has several types of flowers and flowering herbs listed and will tell you which vegetable plants pair well with them! If there is a type or variety missing, you can submit a request in Settings in [Planter](https://planter.garden/) to have it added.
 
 ![](/uploads/nastursiums-screenshot.jpg)
 
