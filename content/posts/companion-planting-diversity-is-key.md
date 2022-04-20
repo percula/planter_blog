@@ -1,7 +1,6 @@
 +++
 author = "Erin Thomson"
 date = 2022-04-20T04:00:00Z
-draft = true
 title = "Companion Planting: Diversity is Key"
 weight = 1
 [cover]
