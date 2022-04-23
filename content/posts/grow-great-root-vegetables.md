@@ -27,7 +27,9 @@ Fertilizer is another key component for growing root crops, and their needs are 
 
 Root crops are cool weather crops, generally planted in spring or in late summer and early fall. It’s often recommended to seed root crops directly in the garden, rather than starting them indoors and transplanting. It can be easy to damage the root when transplanting, which is the desired part of the plant! That said, some gardeners do have success transplanting certain root crops.
 
-Root crops can tolerate part shade, but they do best in a full-sun location. Proper plant spacing is important for root crops. Check [Planter](https://planter.garden/) to determine the proper square-foot spacing for the crops you are planting:![](/uploads/beets-screenshot.jpg)
+Root crops can tolerate part shade, but they do best in a full-sun location. Proper plant spacing is important for root crops. Check [Planter](https://planter.garden/) to determine the proper square-foot spacing for the crops you are planting:
+
+![](/uploads/beets-screenshot.jpg)
 
 Root crops do not compete well with weeds especially when they are just sprouting. Ensure the planting area is clear of weeds and keep up with weeding. The seeds need consistent moisture to germinate, which can be challenging when sowing outdoors. Water the area to be planted prior to seeding and keep it damp. You can cover the planting area to hold in moisture, but be sure to remove the cover as soon as the seeds sprout!
 
