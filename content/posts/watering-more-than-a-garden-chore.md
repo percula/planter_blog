@@ -1,6 +1,7 @@
 +++
 author = "Erin Thomson"
 date = 2022-04-27T04:00:00Z
+draft = true
 title = "Watering: More than a Garden Chore"
 weight = 1
 [cover]
