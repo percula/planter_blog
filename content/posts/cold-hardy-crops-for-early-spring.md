@@ -13,7 +13,7 @@ As the last remains of snow melt away and temperatures gradually warm up, garden
 
 ### What are Cold-Hardy Crops?
 
-There are several cold-hardy crops that will grow in cooler temperatures and can withstand a mild frost or even a freeze. These plants are typically divided into two groups - _semi-hardy_ which can tolerate a light frost with air temperatures between 28°F and 32°F, and _hardy_ which can tolerate heavy frost with air temperatures below 28°F. Not only do these plants withstand the colder temperatures, they actually grow _best_ in the cooler weather.
+There are several cold-hardy crops that will grow in cooler temperatures and can withstand a mild frost or even a freeze. These plants are typically divided into two groups - _semi-hardy_ which can tolerate a light frost with air temperatures between 28°F and 32°F (-2°C and 0°C), and _hardy_ which can tolerate heavy frost with air temperatures below 28°F (-2°C). Not only do these plants withstand the colder temperatures, they actually grow _best_ in the cooler weather.
 
 Examples of semi-hardy crops include: carrots, beets, lettuce, cilantro, and peas.
 
