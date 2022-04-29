@@ -44,7 +44,9 @@ Apply a generous layer of mulch around the base of the plant after planting.
 
 ### Caring for Berries
 
-Once your berries are planted, the hard part is done! Check [Planter](https://planter.garden/) for all the details you need to care for your berry plants:![](/uploads/strawberry-quick-info.jpg)![](/uploads/strawberry-feeding.jpg)
+Once your berries are planted, the hard part is done! Check [Planter](https://planter.garden/) for all the details you need to care for your berry plants:
+
+![](/uploads/strawberry-quick-info.jpg)![](/uploads/strawberry-feeding.jpg)
 
 Add some compost and mulch to the base of your berry plants each year. For blueberries, continue with acidifying treatments, if needed. As your plants grow, you may need to protect them from hungry birds and other critters in your area.
 
