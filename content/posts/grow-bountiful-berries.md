@@ -54,6 +54,6 @@ Once your berries are planted, the hard part is done! Check [Planter](https://pl
 
 Add some compost and mulch to the base of your berry plants each year. For blueberries, continue with acidifying treatments, if needed. As your plants grow, you may need to protect them from hungry birds and other critters in your area.
 
-The only real maintenance your berries need is pruning (or for strawberries, an occasional plant cleanup called ‘renovating’). Pruning berry plants properly is crucial for fruit production. When to start pruning and pruning technique varies depending on the type and variety of berry, so research this carefully for the berries you grow.
+The only real maintenance your berries need is pruning (or for strawberries, an occasional cleanup called ‘renovating’). Pruning berry plants properly is crucial for fruit production. When to start pruning and pruning technique varies depending on the type and variety of berry, so research this carefully for the berries you grow.
 
 Add berry plants to your garden (or landscape!) and you will be enjoying the fruits of your labor for many years to come.
