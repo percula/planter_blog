@@ -28,7 +28,9 @@ Since berries are perennials, make sure the variety you chose is hardy in your [
 
 With raspberries and blackberries, there are “erect”, “semi-erect”, and “trailing” varieties, referring to how the canes grow. Trailing varieties need to be trellised where erect varieties need minimal support, if any. There are summer-bearing and fall-bearing (also known as everbearing) varieties. Summer-bearing produce one crop of fruit in the summer, where fall-bearing can produce one or two crops from summer to early fall. With raspberries there is color to consider, primarily red, purple, and black. Red raspberries have special knack for spreading, so you may want to look into compact, container-friendly varieties. There are even “thornless” varieties for pain-free harvesting!
 
-![](/uploads/blackberries.jpg)Strawberries varieties can also be grouped into a few types: everbearing, June-bearing, and day-neutral- again this mainly refers to when they produce fruit during the season. Everbearing and June-bearing varieties do not produce as many runners as June-bearing, which may be a benefit if you want to control how much your strawberries spread.
+![](/uploads/blackberries.jpg)
+
+Strawberries varieties can also be grouped into a few types: everbearing, June-bearing, and day-neutral- again this mainly refers to when they produce fruit during the season. Everbearing and June-bearing varieties do not produce as many runners as June-bearing, which may be a benefit if you want to control how much your strawberries spread.
 
 Blueberries need acidic soil (PH of roughly 4-5) to grow well. Sort out how you are going to acidify your soil, if needed, before purchasing your blueberry plants. Blueberry varieties are grouped into several types: lowbush (wild), northern highbush, southern highbush, and rabbiteye, which have different preferred growing climates and berry characteristics. Some blueberry varieties need to be cross-pollinated to produce fruit. This means they need another, different variety of blueberry (of the same type) planted nearby.
 
