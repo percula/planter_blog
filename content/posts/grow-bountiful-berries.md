@@ -30,7 +30,7 @@ With raspberries and blackberries, there are erect, semi-erect, and trailing var
 
 ![](/uploads/blackberries.jpg)
 
-Strawberries varieties can also be grouped into a few types: everbearing, June-bearing, and day-neutral- again this mainly refers to when they produce fruit during the season. Everbearing and June-bearing varieties do not produce as many runners as June-bearing, which may be a benefit if you want to control how much your strawberries spread.
+Strawberries varieties can also be grouped into a few types: everbearing, June-bearing, and day-neutral- again this mainly refers to when they produce fruit during the season. Everbearing and day-neutral varieties do not produce as many runners as June-bearing, which may be a benefit if you want to control how much your strawberries spread.
 
 Blueberries need acidic soil (PH of roughly 4-5) to grow well. Sort out how you are going to acidify your soil, if needed, before purchasing your blueberry plants. Blueberry varieties are grouped into several types: lowbush (wild), northern highbush, southern highbush, and rabbiteye, which have different preferred growing climates and berry characteristics. Some blueberry varieties need to be cross-pollinated to produce fruit. This means they need another, different variety of blueberry (of the same type) planted nearby.
 
