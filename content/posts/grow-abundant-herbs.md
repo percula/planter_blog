@@ -41,4 +41,6 @@ When it comes to caring for herbs often less is more. Many herbs do not like to 
 
 When your herbs are ready to harvest, don’t be afraid to give them a haircut! Herbs thrive with a regular trim; it helps them be more productive. Just don’t cut away more than one third of the plant at once. Check out the harvesting and storage tips in [Planter](https://planter.garden/) to get the most out of your herbs:
 
-![](/uploads/thyme-screenshot.jpg)Include your favorite herbs in your garden, and enjoy harvesting the freshest possible herbs right outside your door!
+![](/uploads/thyme-screenshot.jpg)
+
+Include your favorite herbs in your garden, and enjoy harvesting the freshest possible herbs right outside your door!
