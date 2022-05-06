@@ -1,7 +1,6 @@
 +++
 author = "Erin Thomson"
 date = 2022-05-06T04:00:00Z
-draft = true
 title = "Grow Abundant Herbs"
 weight = 1
 [cover]
@@ -10,7 +9,7 @@ caption = ""
 image = "/uploads/herbs-in-pots.jpg"
 
 +++
-If you enjoy having flavorful ingredients for cooking, there is nothing better than growing your own fresh herbs. Herbs provide many rewards with relatively little fuss. Adding herbs to your garden is a great way to expand the range of recipes you can create from your garden’s produce!
+If you enjoy having flavorful ingredients for cooking, there is nothing better than growing your own fresh herbs. Growing herbs provides many rewards, with relatively little effort. Adding herbs to your garden is a great way to expand the range of recipes you can create from your garden’s produce!
 
 ### Why Add Herbs to Your Garden
 
@@ -26,7 +25,8 @@ Some herbs, such as mint, are perennials that can come back every year. Some per
 
 Perennial and self-seeding herbs can be an asset in your garden if they are planted in a convenient location. Be warned, though, that some of these herbs can take over your garden if they are not contained. Bear this in mind when choosing which herbs to plant and where to plant them.
 
-### ![](/uploads/mint.jpg)  
+### ![](/uploads/mint.jpg)
+
 How to Plant and Care for Herbs
 
 Some herbs can be easily started from seed, and some can even be propagated from cuttings. Others can be more tricky to grow from scratch, but buying herb plants from your local garden center still provides a great return on your investment.
