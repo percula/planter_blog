@@ -27,7 +27,7 @@ Perennial and self-seeding herbs can be an asset in your garden if they are plan
 
 ### ![](/uploads/mint.jpg)
 
-How to Plant and Care for Herbs
+### How to Plant and Care for Herbs
 
 Some herbs can be easily started from seed, and some can even be propagated from cuttings. Others can be more tricky to grow from scratch, but buying herb plants from your local garden center still provides a great return on your investment.
 
