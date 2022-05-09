@@ -1,0 +1,24 @@
+{
+  "name": "planter_blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "affiliate": "node_modules/gulp/bin/gulp.js affiliate-links"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/percula/planter_blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/percula/planter_blog/issues"
+  },
+  "homepage": "https://github.com/percula/planter_blog#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cheerio": "^1.0.0"
+  }
+}
