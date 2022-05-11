@@ -31,7 +31,7 @@ Organic mulches gradually break down and feed the soil life below, helping to bu
 
 Mulch materials commonly used in vegetable gardening include:
 
-**Tarps and landscape fabric:** some gardeners prefer to avoid using tarps and landscape fabric, to minimize their use of plastic and due to concerns about chemical leaching. They can be effective when used properly for weed suppression, and to help warm up the soil in spring. Depending on the material and how long you use it, you may need to consider how to irrigate underneath. Landscape fabric and tarps may need to be replaced every several years.
+**Tarps and landscape fabric:** some gardeners prefer to avoid using tarps and landscape fabric, to minimize their use of plastic and due to concerns about chemical leaching. They can be effective when used properly for weed suppression, and to help warm up the soil in spring. Depending on the material and how long you use it, you might need to consider how to irrigate underneath. Landscape fabric and tarps may need to be replaced every several years.
 
 **Leaves:** leaves are a great resource readily available to gardeners in areas with lots of deciduous trees. Ask around in the fall, and you will likely be able to secure a season’s worth of free mulch from your neighbors! Shred dry leaves using a lawn mower so they do not blow away and apply them in a thick layer. Some gardeners compost the leaves down into ‘leaf mold’ and use that as mulch, for added nutrition and to keep them from blowing around.
 
