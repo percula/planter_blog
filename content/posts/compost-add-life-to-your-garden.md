@@ -50,7 +50,7 @@ Nitrogen-rich (green) materials include: fruit and vegetable scraps, tea leaves 
 
 Carbon-rich (brown) materials include: dry shredded leaves, small twigs and wood chips, and shredded, uncoated cardboard.
 
-Some gardeners prefer to avoid adding diseased plant parts and weeds, so as not to risk spreading weeds and disease to the garden, but these can be used so long as the compost heats up.
+Some gardeners prefer to avoid adding diseased plant parts and weeds, but these can be used so long as the compost heats up.
 
 Items such as eggshells, nutshells, fruit pits and cores are fine additions to the compost pile but can take a long time to break down. Do not include them in high ratios and crush them first if possible.
 
