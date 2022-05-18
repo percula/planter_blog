@@ -1,7 +1,7 @@
 +++
 author = "Erin Thomson"
 date = 2022-05-04T04:00:00Z
-title = "Grow Time! Hardening Off and Transplanting"
+title = "Hardening Off and Transplanting"
 weight = 1
 [cover]
 alt = ""
