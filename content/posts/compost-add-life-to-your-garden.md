@@ -22,7 +22,9 @@ Compost benefits your garden soil in many ways:
 
 ### How To Compost
 
-![](/uploads/compost-bin.jpg)Composting can be as easy as throwing organic materials into a pile and waiting for them to break down. Passive composting, also known as ‘cold composting’ does work, but it can take a very long time to turn raw materials into usable compost.
+![](/uploads/compost-bin.jpg)
+
+Composting can be as easy as throwing organic materials into a pile and waiting for them to break down. Passive composting, also known as ‘cold composting’ does work, but it can take a very long time to turn raw materials into usable compost.
 
 With ‘hot composting’ on the other hand, a well-managed compost pile will reach temperatures between 130°F and 150°F (\~55°C to 65°C) as the decomposition process generates heat. Materials break down more quickly, and any weed seeds and disease-causing organisms are killed off in the heat.
 
