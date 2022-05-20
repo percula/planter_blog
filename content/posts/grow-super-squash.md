@@ -53,4 +53,4 @@ Winter squash should be harvested once the skin has had a chance to toughen up, 
 
 Winter squash should be cured before being stored. Use a dry towel to wipe any dirt off the squash then leave them in a sunny, dry area for 10-14 days before storing in a cool, dry spot. Depending on the type of squash, they can keep anywhere from several weeks to several months.
 
-If you have ever been interested in growing squash in your garden, don’t let your enthusiasm be ‘squashed’...Find varieties that work in your space and enjoy the bumper crops!
+If you have ever been interested in growing squash in your garden, don’t let your enthusiasm be ‘squashed’... Find varieties that work in your space and enjoy the bumper crops!
