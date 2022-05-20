@@ -21,7 +21,7 @@ Winter squashes include acorn, butternut, hubbard, and spaghetti.
 
 Some types of squash, such as chayote, take a long time to mature and can be a challenge to grow in cooler climates. Other types, such as zucchini, will start producing quickly and are easier to grow in areas with shorter seasons.
 
-Check out the squash varieties in [Planter](https://planter.garden/) to find plants that best suit your taste and your garden!
+Check out the squash varieties in [Planter](https://planter.garden/) to find plants that suit your taste and your garden!
 
 ![](/uploads/squash-screenshot.jpg)
 
