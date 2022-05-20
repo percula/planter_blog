@@ -45,7 +45,7 @@ Allowing the plants to sprawl along the ground means no engineering is required,
 
 ### When to Harvest Squash
 
-Summer squash should be harvested when the fruits have reached the expected size for their variety. Do not leave summer squash on the plant too long, as they can become unappetizing when they become overly large and mature. Harvesting every few days, or even more often, helps ensure you pick the squash at the perfect time and encourages the plant to keep on producing. Always cut the squash off rather than twisting or pulling it, to avoid damaging the plant.
+Summer squash should be harvested when the fruits have reached the expected size for their variety. Do not leave summer squash on the plant too long, as they can become unappetizing when they are overly large and mature. Harvesting every few days, or even more often, helps ensure you pick the squash at the perfect time and encourages the plant to keep on producing. Always cut the squash off rather than twisting or pulling it, to avoid damaging the plant.
 
 Winter squash should be harvested once the skin has had a chance to toughen up, which happens after the squash reaches full size. Test this by pressing a fingernail into the skin - it should not puncture easily. Keep at least a 2-inch piece of stem attached to the squash - this is important for the longevity of the squash in storage.
 
