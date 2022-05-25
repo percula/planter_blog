@@ -38,7 +38,7 @@ Lastly, compost needs to be turned regularly - that is the outer edges should be
 
 Be aware that decomposition slows down dramatically in cold weather. Some decomposition will take place so long as the pile isn’t totally frozen, but it will not be as quick as when the weather is warmer.
 
-When it comes to compost heap containment, there are a number of options available. An uncontained pile that is properly managed can still get ‘hot’ although it can be unsightly. A wooden or chicken wire enclosure can help contain the pile but be sure that there is easy access to turn the pile. Many gardeners use a three-bin system, where compost piles are moved from one bin to the next as they break down. There are also [compost tumblers](https://www.amazon.com/s?k=compost+tumbler&crid=AW1KFM0FOMY7&sprefix=compost+tumbler%2Caps%2C95&ref=nb_sb_noss_1) that take the work out of turning the pile, however they can be pricey and may not generate compost any faster than a properly maintained bin.
+When it comes to compost heap containment, there are a number of options available. An uncontained pile that is properly managed can still get ‘hot’ although it can be unsightly. A wooden or chicken wire enclosure can help contain the pile but be sure that there is easy access to turn the pile. Many gardeners use a three-bin system, where compost piles are moved from one bin to the next as they break down. There are also [compost tumblers](https://www.amazon.com/s?k=compost+tumbler) that take the work out of turning the pile, however they can be pricey and may not generate compost any faster than a properly maintained bin.
 
 ![](/uploads/compost-tumbler.jpg)
 
