@@ -62,4 +62,6 @@ Some items that should not be added to a home compost pile are:
 
 Make sure your compost is fully-broken down before using it! The odd intact nutshell won’t hurt, but if you add unfinished compost into your soil in high enough quantities it may kill your plants. Finished compost should be dark brown, smell earthy, and should not have many visible uncomposted materials.
 
-Add compost to your garden and as time goes on you will see your soil, and your plants, spring to life!
+Add compost to your garden and as time goes on you will see your soil, and your plants, spring to life!  
+  
+{{< affiliate >}}
