@@ -12,11 +12,11 @@ Gulp.task("affiliate-links", () => {
             var a = $(this);
             url = URL.parse(a.attr("href"));
             if(a.attr("href").startsWith("https://www.amazon.com/") && !a.attr("href").includes("?tag=")) {
-                if (!url.searchParams.length) {
+                if (!url.searchParams) {
+                    a.attr("href", a.attr("href") + "&tag=" + tag);
+                } else {
                     // No query params in url
                     a.attr("href", url.protocol + "//" + url.hostname + url.pathname + "?tag=" + tag);
-                } else {
-                    a.attr("href", a.attr("href") + "&tag=" + tag);
                 }
             }
         });
