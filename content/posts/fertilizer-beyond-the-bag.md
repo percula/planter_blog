@@ -15,7 +15,7 @@ As plants grow, they use nutrients from the soil which can eventually become dep
 
 Garden fertilizer can be categorized as either [organic fertilizer](https://www.amazon.com/s?k=organic+fertilizer) or synthetic fertilizer (commonly called ‘chemical’ fertilizer) . Organic fertilizer is fertilizer with naturally-derived ingredients that contain the [nutrients that plants need](https://blog.planter.garden/posts/understanding-fertilizer-labels/) in their natural state. Synthetic fertilizers are manufactured, readily available forms of plant nutrients.
 
-Organic fertilizer is not only a product you can buy - there are many sources of organic nutrients for plants. Some examples of organic fertilizers are:
+Organic fertilizer is more than just one product you can buy - there are many sources of organic nutrients for plants. Some examples of organic fertilizers are:
 
 * **Bone meal and blood meal:** both are animal byproducts, however blood meal mainly provides nitrogen while bone meal mainly provides phosphorus and calcium.
 * **Manure:** there are many types of manures that make good compost including poultry, cow, sheep, and horse manure, to name a few. If you are not buying a bagged product from the garden center, make sure the manure is completely rotted down before using and is free of herbicides or pesticides.
