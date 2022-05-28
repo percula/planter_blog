@@ -25,7 +25,7 @@ Organic fertilizer is not only a product you can buy - there are many sources of
 
 ![](/uploads/soils-in-hands.jpg)
 
-Because organic fertilizers have nutrients in their natural state, they need to be broken down by soil microbes before they are available for plants to use. This process can take some time compared to an synthetic fertilizer.
+Because organic fertilizers have nutrients in their natural state, they need to be broken down by soil microbes before they are available for plants to use. This process can take some time compared to a synthetic fertilizer.
 
 Synthetic fertilizers are not necessarily ‘bad’. They provide readily available forms of the key nutrients that plants need to grow. It can be easy to over-apply synthetic fertilizers though, which can harm your soil and your plants as well as contribute to environmental damage. There are ‘slow-release’ fertilizers that release nutrients over time that can help avoid this. Be sure to only use synthetic fertilizers that are labeled for use in vegetable gardens.
 
