@@ -13,7 +13,7 @@ As plants grow, they use nutrients from the soil which can eventually become dep
 
 ### Organic versus Synthetic Fertilizer
 
-Garden fertilizer can be categorized as either [organic fertilizer](https://www.amazon.com/s?k=organic+ferilizer) or synthetic fertilizer (commonly called ‘chemical’ fertilizer) . Organic fertilizer is fertilizer with naturally-derived ingredients that contain the [nutrients that plants need](https://blog.planter.garden/posts/understanding-fertilizer-labels/) in their natural state. Synthetic fertilizers are manufactured, readily available forms of plant nutrients.
+Garden fertilizer can be categorized as either [organic fertilizer](https://www.amazon.com/s?k=organic+fertilizer) or synthetic fertilizer (commonly called ‘chemical’ fertilizer) . Organic fertilizer is fertilizer with naturally-derived ingredients that contain the [nutrients that plants need](https://blog.planter.garden/posts/understanding-fertilizer-labels/) in their natural state. Synthetic fertilizers are manufactured, readily available forms of plant nutrients.
 
 Organic fertilizer is not only a product you can buy - there are many sources of organic nutrients for plants. Some examples of organic fertilizers are:
 
