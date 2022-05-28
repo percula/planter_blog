@@ -20,7 +20,7 @@ Organic fertilizer is not only a product you can buy - there are many sources of
 * **Bone meal and blood meal:** both are animal byproducts, however blood meal mainly provides nitrogen while bone meal mainly provides phosphorus and calcium.
 * **Manure:** there are many types of manures that make good compost including poultry, cow, sheep, and horse manure, to name a few. If you are not buying a bagged product from the garden center, make sure the manure is completely rotted down before using and is free of herbicides or pesticides.
 * **Alfalfa:** alfalfa meal or pellets is a great source of nitrogen for the garden that can be found at garden centers and animal feed stores. Be sure the product you buy only contains alfalfa hay as an ingredient.
-* [**Fish emulsion:**](https://www.amazon.com/s?k=fish+emulsion) fish emulsion is a relatively fast-acting liquid organic fertilizer concentrate made from fish byproducts. Be aware that fish emulsion does have a fishy smell!
+* [**Fish emulsion:**](https://www.amazon.com/s?k=fish+emulsion) fish emulsion is a relatively fast-acting liquid organic fertilizer concentrate made from fish byproducts. Brace yourself before using fish emulsion...it does have a fishy smell!
 * **Compost:** Compost is mostly used to add organic matter to the soil, but it does contain nutrients that plants need. Compost doesn’t typically have high concentrations of nutrients, so you may still need to supplement with another fertilizer.
 
 ![](/uploads/soils-in-hands.jpg)
