@@ -1,16 +1,15 @@
 +++
 author = "Erin Thomson"
 date = 2022-05-27T04:00:00Z
-draft = true
 title = "Fertilizer: Beyond the Bag"
 weight = 1
 [cover]
-alt = ""
-caption = ""
-image = ""
+alt = "Soil with fertilizer granules"
+caption = "Soil with fertilizer granules"
+image = "/uploads/soil-with-fertilizer.jpg"
 
 +++
-As plants grow, they use nutrients from the soil which can eventually become depleted if they are not replenished. Since we usually harvest our veggie garden produce rather than letting the plants decompose back into the soil, soil nutrients can dwindle over time. Fertilizer adds soil nutrients that are lacking so that new plants can grow. You might only think of fertilizer as the little granules that come in bags or tubs from the garden center, but there are many different options to add nutrients to your soil!
+As plants grow, they use nutrients from the soil which can eventually become depleted if they are not replenished. Since we usually harvest our veggie garden produce rather than letting the plants decompose back into the soil, soil nutrients can dwindle over time. Fertilizer adds soil nutrients that are lacking so that new plants can grow. You might only think of fertilizer as the little granules that come in bags from the garden center, but there are many different options to add nutrients to your soil!
 
 ### Organic versus Synthetic Fertilizer
 
@@ -18,17 +17,13 @@ Garden fertilizer can be categorized as either [organic fertilizer](https://www.
 
 Organic fertilizer is not only a product you can buy - there are many sources of organic nutrients for plants. Some examples of organic fertilizers are:
 
-* Bone meal and blood meal: both are animal byproducts, however blood meal mainly provides nitrogen while bone meal mainly provides phosphorus and calcium.
+* **Bone meal and blood meal:** both are animal byproducts, however blood meal mainly provides nitrogen while bone meal mainly provides phosphorus and calcium.
+* **Manure:** there are many types of manures that make good compost including poultry, cow, sheep, and horse manure, to name a few. If you are not buying a bagged product from the garden center, make sure the manure is completely rotted down before using and is free of herbicides or pesticides.
+* **Alfalfa:** alfalfa meal or pellets is a great source of nitrogen for the garden that can be found at garden centers and animal feed stores. Be sure the product you buy only contains alfalfa hay as an ingredient.
+* [**Fish emulsion:**](https://www.amazon.com/s?k=fish+emulsion) fish emulsion is a relatively fast-acting liquid organic fertilizer concentrate made from fish byproducts. Be aware that fish emulsion does have a fishy smell!
+* **Compost:** Compost is mostly used to add organic matter to the soil, but it does contain nutrients that plants need. Compost doesn’t typically have high concentrations of nutrients, so you may still need to supplement with another fertilizer.
 
-* Manure: there are many types of manures that make good compost including poultry, cow, sheep, and horse manure, to name a few. If you are not buying a bagged product from the garden center, make sure the manure is completely rotted down before using and is free of herbicides or pesticides.
-
-* Alfalfa: Alfalfa meal or pellets is a great source of nitrogen for the garden that can be found at garden centers and animal feed stores. Be sure the product you buy only contains alfalfa hay as an ingredient.
-
-* [Fish emulsion:](https://www.amazon.com/s?k=fish+emulsion) fish emulsion is a relatively fast-acting liquid organic fertilizer concentrate made from fish byproducts. Be aware that fish emulsion does have a fishy smell!
-
-* Compost: Compost is mostly used to add organic matter to the soil, but it does contain nutrients that plants need. Compost doesn’t typically have high concentrations of nutrients, so you may still need to supplement with another fertilizer.
-
-![](https://lh4.googleusercontent.com/tWN3PU03kCRTbQxeEANlpkalVcMxRaRyIIbm-Tc1DAlgrpbgpk0_sDTWh4lWD1vrW1YPhHpWKXDKXic33qy-_q3cx-L79YyUwUHPTkfOgJHjH4BF3h1UaNdiZCsy6p6qPUP_7LDA7dr63o_eog =602x401)
+![](/uploads/soils-in-hands.jpg)
 
 Because organic fertilizers have nutrients in their natural state, they need to be broken down by soil microbes before they are available for plants to use. This process can take some time compared to an synthetic fertilizer.
 
@@ -44,7 +39,7 @@ Granular fertilizers are dry, small granules (sometimes powder-like). They can b
 
 Water-soluble fertilizer is dissolved into water and applied with a watering can or using a hose attachment. Water-soluble fertilizer is a more direct method of delivering nutrients that can start to work faster than granular fertilizers. Using a water-soluble fertilizer can work to give your plants a quick boost when they are in need.
 
-![](https://lh4.googleusercontent.com/gcJ91608dmultxwquvUZmS8HZvyY9IMQwCfvse6dwJbnJIV2RE2fv_pnwYfVn5FZOkQo2kdJSwb1o8AU6FVT9UdV5K-VDNLKTOqSxc8toGTvIZpoed26PnIpr1JkhXlY3JxLrUjOR3d1h6NzIA =602x401)
+![](/uploads/watering-can.jpg)
 
 ### So, Which Fertilizer is Best?
 
