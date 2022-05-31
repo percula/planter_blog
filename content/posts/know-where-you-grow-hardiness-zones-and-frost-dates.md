@@ -4,16 +4,16 @@ date = 2022-04-01T04:00:00Z
 title = "Know Where You Grow: Hardiness Zones and Frost Dates"
 weight = 1
 [cover]
-alt = ""
+alt = "Frost-covered plant leaves"
 caption = "Frost-covered plant leaves"
-image = "/uploads/leaves-with-frost.jpg"
+image = "/uploads/frost-on-leaves.jpg"
 
 +++
 When starting a garden, understanding the growing climate in your area is an important first step. There are two key pieces of information to know about your local growing climate: your hardiness zone and frost dates. While sometimes represented together, hardiness zones and frost dates are separate concepts. Read on to learn what they are and why they matter for a successful garden.
 
 ### What are Plant Hardiness Zones?
 
-![](/uploads/usda-growing-zones-map.jpg "Source: https://planthardiness.ars.usda.gov/pages/map-downloads")
+![USDA plant hardiness zone map](/uploads/usda-growing-zones-map.jpg "Source: https://planthardiness.ars.usda.gov/pages/map-downloads")
 
 In North America, plant hardiness zones commonly refer to the US Department of Agriculture (USDA) Plant Hardiness Zones. Canada has developed its own hardiness zone system, but for practical purposes the USDA zones are commonly used. There are many plant hardiness zone systems in use around the world.
 
@@ -33,4 +33,4 @@ The number of days between your last and first frost date is the length of your 
 
 [Planter](https://planter.garden/) does the work of calculating this for you! First, [set-up your location](https://info.planter.garden/calendar) in the app settings. For each plant, [Planter](https://planter.garden/) provides a Growing Calendar that is customized to your location. The Growing Calendar shows which plants can be started outdoors, which should be started indoors and transplanted, and when:
 
-![](/uploads/screenshot_20220331.jpg)
+![Planter Growing Calendar screenshot](/uploads/screenshot_20220331.jpg)
