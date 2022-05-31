@@ -4,7 +4,7 @@ date = 2022-04-13T04:00:00Z
 title = "No-Till Gardening: Save Your Soil!"
 weight = 1
 [cover]
-alt = ""
+alt = "A garden shovel digging into the ground"
 caption = "Digging the garden - is it really needed?"
 image = "/uploads/shovel-in-dirt.jpg"
 
@@ -21,7 +21,7 @@ With organisms doing all this crucial work in the soil, it only makes sense to d
 
 ### What are the Benefits of No-Till Gardening?
 
-![Soil in hands](/uploads/soil-in-hands.jpg)
+![Hands holding soil](/uploads/soil-in-hands.jpg)
 
 Doing away with tilling and digging eliminates most of the backbreaking gardening work! If that isn’t enough to convince you, there are many added perks with no-till gardening:
 
