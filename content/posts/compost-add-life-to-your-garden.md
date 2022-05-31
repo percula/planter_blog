@@ -4,7 +4,7 @@ date = 2022-05-18T04:00:00Z
 title = "Compost: Add Life to Your Garden!"
 weight = 1
 [cover]
-alt = ""
+alt = "A gardener's hands planting seedlings in dark brown soil"
 caption = "Seedlings in healthy soil"
 image = "/uploads/seedlings-and-soil.jpg"
 
@@ -22,7 +22,7 @@ Compost benefits your garden soil in many ways:
 
 ### How To Compost
 
-![](/uploads/compost-bin.jpg)
+![An open compost bin with vegetables in a pile](/uploads/compost-bin.jpg)
 
 Composting can be as easy as throwing organic materials into a pile and waiting for them to break down. Passive composting, also known as ‘cold composting’ does work, but it can take a very long time to turn raw materials into usable compost.
 
@@ -40,7 +40,7 @@ Be aware that decomposition slows down dramatically in cold weather. Some decomp
 
 When it comes to compost heap containment, there are a number of options available. An uncontained pile that is properly managed can still get ‘hot’ although it can be unsightly. A wooden or chicken wire enclosure can help contain the pile but be sure that there is easy access to turn the pile. Many gardeners use a three-bin system, where compost piles are moved from one bin to the next as they break down. There are also [compost tumblers](https://www.amazon.com/s?k=compost+tumbler) that take the work out of turning the pile, however they can be pricey and may not generate compost any faster than a properly maintained bin.
 
-![](/uploads/compost-tumbler.jpg)
+![A dual-chamber compost tumbler](/uploads/compost-tumbler.jpg)
 
 If you are interested in composting indoors, check out bokashi composting (using ‘bokashi bran’ - bacteria and yeasts) or vermicomposting (using worms). They are both great options to be able to compost year-round.
 
@@ -62,6 +62,6 @@ Some items that should not be added to a home compost pile are:
 
 Make sure your compost is fully-broken down before using it! The odd intact nutshell won’t hurt, but if you add unfinished compost into your soil in high enough quantities it may kill your plants. Finished compost should be dark brown, smell earthy, and should not have many visible uncomposted materials.
 
-Add compost to your garden and as time goes on you will see your soil, and your plants, spring to life!  
-  
+Add compost to your garden and as time goes on you will see your soil, and your plants, spring to life!
+
 {{< affiliate >}}
