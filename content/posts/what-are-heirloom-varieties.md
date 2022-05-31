@@ -27,7 +27,7 @@ While there are many good reasons to grow heirlooms, hybrids have their merits t
 
 ### Where to Get Heirloom Seeds
 
-![](/uploads/planting-bean-seeds2.jpg)
+![A gardener's gloved hand with seeds](/uploads/planting-bean-seeds2.jpg)
 
 There are several non-profit seed exchange organizations committed to preserving heirloom seeds. Members can buy and swap seeds, often at a discount. Review shipping requirements if purchasing seeds from outside your local area.
 
