@@ -4,7 +4,7 @@ date = 2022-04-16T04:00:00Z
 title = "Attracting Pollinators to the Garden"
 weight = 1
 [cover]
-alt = ""
+alt = "Bee with pollen on an echinacea flower"
 caption = "Bee with pollen on an echinacea flower"
 image = "/uploads/bee-on-echinacea.jpg"
 
@@ -25,7 +25,7 @@ Some types of fruit trees and shrubs are ‘self-unfruitful’ which means they 
 
 ### How To Attract Pollinators
 
-![](/uploads/flower-meadow.jpg)
+![Colorful wildflowers](/uploads/flower-meadow.jpg)
 
 Pollinators may not be there when we need them if we don’t make a safe and inviting space in the garden for them.
 
@@ -37,8 +37,8 @@ When planting flowers to attract pollinators, consider incorporating them direct
 
 [Planter](https://planter.garden/) has several types of flowers and flowering herbs listed and will tell you which vegetable plants pair well with them! If there is a type or variety missing, you can submit a request in Settings in [Planter](https://planter.garden/) to have it added.
 
-![](/uploads/nastursiums-screenshot.jpg)
+![Screenshot of nasturtium plant description in Planter](/uploads/nastursiums-screenshot.jpg)
 
-![](/uploads/nastursiums-screenshot2.jpg)
+![Screenshot of nasturtium companion plants in Planter](/uploads/nastursiums-screenshot2.jpg)
 
 Attracting pollinators to your garden is a win-win. Help support pollinator populations and they will take care of the hard work of pollinating for you!
