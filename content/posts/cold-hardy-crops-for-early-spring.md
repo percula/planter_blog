@@ -1,10 +1,10 @@
 +++
 author = "Erin Thomson"
 date = 2022-04-05T04:00:00Z
-title = "Cold-Hardy Crops for Early Spring"
+title = "Cold-Hardy Crops"
 weight = 1
 [cover]
-alt = ""
+alt = "Chives and lettuce in a spring garden"
 caption = "Chives and lettuce in a spring garden"
 image = "/uploads/chives-and-lettuce.jpg"
 
@@ -19,9 +19,9 @@ Examples of semi-hardy crops include: carrots, beets, lettuce, cilantro, and pea
 
 Examples of hardy crops include: kale, spinach, garlic, chives, and parsley.
 
-Use [Planter](https://planter.garden/) to identify cool season plants that are tolerant or semi-tolerant to frost! Select a plant and refer to the Season and Frost cards under Quick Info:
+Use [Planter](https://planter.garden/) to identify cool season plants that are Tolerant or Semi-Tolerant to frost! Select a plant and refer to the Season and Frost cards under Quick Info:
 
-![](/uploads/quick-info-screenshot.jpg)
+![Screenshot of frost tolerance information in Planter](/uploads/quick-info-screenshot.jpg)
 
 Note that cold-hardy crops are not to be confused with _cole crops_. Cole crops are members of the brassica family specifically- and while they do love the cold - they are just one family out of many that happen to enjoy cold weather.
 
