@@ -27,7 +27,7 @@ There are four common succession planting techniques:
 
 ### Which Crops Can I Plant in Succession?
 
-![](/uploads/carrots-with-dirt.jpg)
+![A hand holding carrots with dirt on the roots](/uploads/carrots-with-dirt.jpg)
 
 Which crops you can succession plant depends on the length of your growing season and on the succession planting technique you are using. Staggered planting is common with lettuce, radishes, legumes, kale, chard, beets, and carrots, to name a few.
 
@@ -45,7 +45,7 @@ In its simplest form, remove spent crops and plant season-appropriate crops in t
 
 Staggered planting is also straightforward, but requires saving space in the garden to have open spots to plant into every few weeks. [Planter](https://planter.garden/) can help you keep track of which spaces in your garden are still available for planting.
 
-![](/uploads/screenshot-planting-space.jpg)
+![Screenshot of a garden with empty spaces in Planter](/uploads/screenshot-planting-space.jpg)
 
 Use the [Notes and Events](https://info.planter.garden/premium) premium features in [Planter](https://planter.garden/) to keep records of intercropped plantings and to track the exact days to maturity of different plant varieties.
 
