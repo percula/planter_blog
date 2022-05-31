@@ -23,7 +23,7 @@ Organic fertilizer is more than just one product you can buy - there are many or
 * [**Fish emulsion:**](https://www.amazon.com/s?k=fish+emulsion) fish emulsion is a relatively fast-acting liquid organic fertilizer concentrate made from fish byproducts. Brace yourself before using fish emulsion...it does have a fishy smell!
 * **Compost:** Compost is mostly used to add organic matter to the soil, but it does contain nutrients that plants need. Compost doesn’t typically have high concentrations of nutrients, so you may still need to supplement with another fertilizer.
 
-![](/uploads/soils-in-hands.jpg)
+![Hands holding dark soil and compost](/uploads/soils-in-hands.jpg)
 
 Because organic fertilizers have nutrients in their natural state, they need to be broken down by soil microbes before they are available for plants to use. This process can take some time compared to a synthetic fertilizer.
 
@@ -39,7 +39,7 @@ Granular fertilizers are dry, small granules (sometimes powder-like). They can b
 
 Water-soluble fertilizer is dissolved into water and applied with a watering can or using a hose attachment. Water-soluble fertilizer is a more direct method of delivering nutrients that can start to work faster than granular fertilizers. Using a water-soluble fertilizer can work to give your plants a quick boost when they are in need.
 
-![](/uploads/watering-can.jpg)
+![A watering can watering plants in a garden](/uploads/watering-can.jpg)
 
 ### So, Which Fertilizer is Best?
 
