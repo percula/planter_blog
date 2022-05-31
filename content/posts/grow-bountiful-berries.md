@@ -4,7 +4,7 @@ date = 2022-04-29T04:00:00Z
 title = "Grow Bountiful Berries"
 weight = 1
 [cover]
-alt = ""
+alt = "Ripening strawberries and flowers on vines"
 caption = "Ripening strawberries and flowers"
 image = "/uploads/strawberries.jpg"
 
@@ -28,7 +28,7 @@ Since berries are perennials, make sure the variety you chose is hardy in your [
 
 With raspberries and blackberries, there are erect, semi-erect, and trailing varieties, referring to how the canes grow. Trailing varieties need to be trellised where erect varieties need minimal support, if any. There are summer-bearing and fall-bearing (also known as everbearing) varieties. Summer-bearing produce one crop of fruit in the summer, where fall-bearing can produce one or two crops from summer to early fall. With raspberries there is color to consider, primarily red, purple, and black. Red raspberries have special knack for spreading, so you may want to look into compact, container-friendly varieties. There are even “thornless” varieties for pain-free harvesting!
 
-![](/uploads/blackberries.jpg)
+![Ripening blackberries on a stem](/uploads/blackberries.jpg)
 
 Strawberries varieties can also be grouped into a few types: everbearing, June-bearing, and day-neutral- again this mainly refers to when they produce fruit during the season. Everbearing and day-neutral varieties do not produce as many runners as June-bearing, which may be a benefit if you want to control how much your strawberries spread.
 
@@ -48,9 +48,9 @@ Apply a generous layer of mulch around the base of the plant after planting.
 
 Once your berries are planted, the hard part is done! Check [Planter](https://planter.garden/) for all the details you need to care for your berry plants:
 
-![](/uploads/strawberry-quick-info.jpg)
+![Screenshot of Quick Info for Strawberries in Planter](/uploads/strawberry-quick-info.jpg)
 
-![](/uploads/strawberry-feeding.jpg)
+![Screenshot of strawberry Feeding instructions in Planter](/uploads/strawberry-feeding.jpg)
 
 Add some compost and mulch to the base of your berry plants each year. For blueberries, continue with acidifying treatments, if needed. As your plants grow, you may need to protect them from hungry birds and other critters in your area.
 
