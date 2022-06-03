@@ -51,4 +51,4 @@ Persistence is the key to keeping weeding manageable. Use the [Notes and Events]
 
 Weeds can wreak havoc in the garden, but it is possible to manage them. Take steps to prevent weeds from proliferating, and weeding your garden will be only an occasional, painless task!
 
-{{ <affiliate> }}
+{{< affiliate >}}
