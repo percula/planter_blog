@@ -13,7 +13,7 @@ Weeds are something that every gardener deals with. If you don’t enjoy weeding
 
 ### Why are weeds in the garden ‘bad’?
 
-Weeds aren’t all bad. In nature, weeds cover and reclaim bare soil. They are amazingly well-adapted to grow under the harshest conditions (have you ever seen a weed growing out the tiniest crack in the sidewalk and thought ‘...how?’), and they develop living ecosystems in otherwise barren areas.
+Weeds aren’t all bad. In nature, weeds cover and reclaim bare soil. They are amazingly well-adapted to grow under the harshest conditions (have you ever seen a weed growing out the tiniest crack in the sidewalk and thought...how?), and they develop living ecosystems in otherwise barren areas.
 
 Weeds can be a problem in the garden, though. They compete with garden plants for sunlight, water, and nutrients. This is especially true for tiny seedlings and some plants, such as carrots, that have a hard time out-growing aggressive weeds. If garden weeds run wild, they can cause heavy losses to potential harvests.
 
