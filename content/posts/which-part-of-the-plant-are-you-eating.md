@@ -2,7 +2,7 @@
 author = "Abigail Bar"
 date = 2022-06-09T04:00:00Z
 title = "Which Part of the Plant are You Eating?"
-weight = nil
+weight = 5
 [cover]
 alt = ""
 caption = ""
