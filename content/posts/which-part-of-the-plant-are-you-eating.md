@@ -59,7 +59,7 @@ While strawberries are often thought of as berries, the fleshy part “berry” 
 
 ### Concluding Thoughts
 
-Did any of these plant parts surprise you? Information about growing the plants above in your garden can be found in the [Planter ](https://planter.garden/plants)app. Next time you’re gardening, be sure to appreciate the variety in not only the plant species you are growing, but also the number of plant structures we are able to eat. With great variety comes some risk, so proceed with caution when consuming the fruits (and vegetables) of your labor. Make sure that the part of the plant you are eating is truly edible, before experimenting too much with trying all the parts of each of your plants.
+Did any of these plant parts surprise you? Information about growing the plants above in your garden can be found in the [Planter ](https://planter.garden)app. Next time you’re gardening, be sure to appreciate the variety in not only the plant species you are growing, but also the number of plant structures we are able to eat. With great variety comes some risk, so proceed with caution when consuming the fruits (and vegetables) of your labor. Make sure that the part of the plant you are eating is truly edible, before experimenting too much with trying all the parts of each of your plants.
 
 ###### References:
 
