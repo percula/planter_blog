@@ -3,7 +3,7 @@ author = "Abigail Bar"
 date = 2022-06-09T04:00:00Z
 draft = true
 override_position = false
-title = "Which Part of the Plant are You Eating?"
+title = "Which Parts of the Plant are You Eating?"
 weight = 5
 [cover]
 alt = ""
