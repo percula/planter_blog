@@ -1,7 +1,6 @@
 +++
 author = "Abigail Bar"
 date = 2022-06-08T04:00:00Z
-draft = true
 title = "Which Part of the Plant are You Eating?"
 weight = 5
 [cover]
