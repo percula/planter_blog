@@ -16,7 +16,7 @@ Below is a diagram of the different plant parts we eat. Keep reading to see deta
 
 ![parts of plant](/uploads/partsofplantbarblog.png "Parts of Plant")
 
-[\[11\]](https://web.extension.illinois.edu/gpe/glossary/receptacle.htmlas%20a%20vegetable.)
+[\[11\]](https://web.extension.illinois.edu/gpe/glossary/receptacle.html)
 
 ### Roots
 
@@ -73,10 +73,10 @@ Did any of these plant parts surprise you? Information about growing the plants 
 
 \[7\] Rodrigue, C. (September 29, 2015). _Fruits and Seeds._ California Ecosystems. [https://home.csulb.edu/\~rodrigue/geog330/fruitsseeds.html](https://home.csulb.edu/\~rodrigue/geog330/fruitsseeds.html "https://home.csulb.edu/~rodrigue/geog330/fruitsseeds.html")
 
-\[8\] Sabat, S. (February 14, 2020). _Broccoli is Technically a Flower? Know Other Vegetables That Are Technically Flowers._ RepublicWorld. [_https://www.republicworld.com/lifestyle/food/take-a-look-at-vegetables-that-are-technically-flowers.html#:\~:text=Vegetables%20that%20are%20flower%3A%20Broccoli,are%20consumed%20_](https://www.republicworld.com/lifestyle/food/take-a-look-at-vegetables-that-are-technically-flowers.html#:\~:text=Vegetables%20that%20are%20flower%3A%20Broccoli,are%20consumed%20 "https://www.republicworld.com/lifestyle/food/take-a-look-at-vegetables-that-are-technically-flowers.html#:~:text=Vegetables%20that%20are%20flower%3A%20Broccoli,are%20consumed%20")
+\[8\] Sabat, S. (February 14, 2020). _Broccoli is Technically a Flower? Know Other Vegetables That Are Technically Flowers._ RepublicWorld. [https://www.republicworld.com/lifestyle/food/take-a-look-at-vegetables-that-are-technically-flowers.html#:\~:text=Vegetables%20that%20are%20flower%3A%20Broccoli,are%20consumed%20as%20a%20vegetable](https://www.republicworld.com/lifestyle/food/take-a-look-at-vegetables-that-are-technically-flowers.html#:\~:text=Vegetables%20that%20are%20flower%3A%20Broccoli,are%20consumed%20as%20a%20vegetable "https://www.republicworld.com/lifestyle/food/take-a-look-at-vegetables-that-are-technically-flowers.html#:~:text=Vegetables%20that%20are%20flower%3A%20Broccoli,are%20consumed%20as%20a%20vegetable")
 
 \[9\] Straus R. (June 2, 2016). _7 Plants You Should Never Eat Root-to-Stem._ Prevention. [https://www.prevention.com/food-nutrition/g20512557/7-plants-you-should-never-eat-root-to-stem/](https://www.prevention.com/food-nutrition/g20512557/7-plants-you-should-never-eat-root-to-stem/ "https://www.prevention.com/food-nutrition/g20512557/7-plants-you-should-never-eat-root-to-stem/")
 
 \[10\] Tee-Melegrito, R. (September 3, 2021). _What to Know About Green Leafy Vegetables._ Medical News Today. [https://www.medicalnewstoday.com/articles/green-leafy-vegetables](https://www.medicalnewstoday.com/articles/green-leafy-vegetables "https://www.medicalnewstoday.com/articles/green-leafy-vegetables")
 
-\[11\] _The Great Plant Escape Glossary._ (n.d.). University of Illinois Extension. [https://web.extension.illinois.edu/gpe/glossary/receptacle.html](https://web.extension.illinois.edu/gpe/glossary/receptacle.html "https://web.extension.illinois.edu/gpe/glossary/receptacle.html")[_as%20a%20vegetable_](https://www.republicworld.com/lifestyle/food/take-a-look-at-vegetables-that-are-technically-flowers.html#:\~:text=Vegetables%20that%20are%20flower%3A%20Broccoli,are%20consumed%20as%20a%20vegetable)_._
+\[11\] _The Great Plant Escape Glossary._ (n.d.). University of Illinois Extension. [https://web.extension.illinois.edu/gpe/glossary/receptacle.html](https://web.extension.illinois.edu/gpe/glossary/receptacle.html "https://web.extension.illinois.edu/gpe/glossary/receptacle.html")
