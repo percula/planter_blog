@@ -14,7 +14,6 @@ The fruits and vegetables you can eat come from unique parts of their plants. In
 
 Below is a diagram of the different plant parts we eat. Keep reading to see details about where you may see these plant parts on your dinner table.
 
-  
 ![](https://lh3.googleusercontent.com/5u_gJz5ql5IRw_YgATeBRJeApoOnV1tkA8TpzYgE0n_UKxIyTHRHVmiuTtSDTXvGCT4cfo-XiwSePrtPudE-k1Ei6amGJfy7PVs7B_85vdrwoM5W99R2XqghPzHMXBUraWPNbUq-nqJ8q_lpJw =556x367)[\[11\]](https://www.republicworld.com/lifestyle/food/take-a-look-at-vegetables-that-are-technically-flowers.html#:\~:text=Vegetables%20that%20are%20flower%3A%20Broccoli,are%20consumed%20as%20a%20vegetable)
 
 ### Roots
@@ -33,7 +32,6 @@ Common plant stems you eat include asparagus and kohlrabi. Some of the plants wi
 
 Many of the leaves in our gardens are not only edible, but also extremely beneficial to our health. For example, kale contains both vital antioxidants and fiber and spinach contains nutrients such as phosphorus and magnesium. Romaine lettuce, swiss chard, and cabbage all are shown to be beneficial in terms of cancer prevention [\[10\]](https://www.medicalnewstoday.com/articles/green-leafy-vegetables). However, like with all the plants in your garden it is crucial to make sure you don’t generalize the benefits of these leaves to the leaves of all your plants. Rhubarb, eggplants, and tomatoes all have leaves that are shown to be toxic to humans, and shouldn’t be consumed [\[9\]](https://www.prevention.com/food-nutrition/g20512557/7-plants-you-should-never-eat-root-to-stem/).
 
-  
 ![](https://lh3.googleusercontent.com/-gapz2O9HYACzvdpmCkMLvNFHVzg6GvA1al5SWYK1F5ER48k7Dcq5Fdu3cLfTa-mR1_KVrhC_F6lJgaRe0Pjh-6UKV6OfI0pBJ4SSGM9aNS7te1T9377yOFzpcAnBCAN1mkEogRrdlIIsRCV8g =536x302)
 
 ### Flowers
