@@ -44,17 +44,26 @@ fields:
     label: Caption
   label: Cover
   description: The cover photo
+- name: override_position
+  type: boolean
+  label: Override Position
+  hidden: false
+  description: Override the position of this post?
 - name: weight
   type: number
   label: Weight
   default: 5
   required: true
   config:
-    min: 
-    max: 
-    step: 
-  description: "(optional) Used to determine the order of the posts. Use a lower value
-    such as 1 to pin the post. Defaults to 5."
+    min: 1
+    max: 5
+    step: 1
+    required: true
+  description: Used to determine the order of the posts. Use a lower value such as
+    1 to pin the post. Defaults to 5.
+  showOnly:
+    field: override_position
+    value: true
 pages:
 - content/posts/attracting-pollinators-to-the-garden.md
 - content/posts/cold-hardy-crops.md
