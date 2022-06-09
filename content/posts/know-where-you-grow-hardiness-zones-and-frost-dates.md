@@ -2,7 +2,7 @@
 author = "Erin Thomson"
 date = 2022-04-01T04:00:00Z
 title = "Know Where You Grow: Hardiness Zones and Frost Dates"
-weight = 1
+weight = 5
 [cover]
 alt = "Frost-covered plant leaves"
 caption = "Frost-covered plant leaves"

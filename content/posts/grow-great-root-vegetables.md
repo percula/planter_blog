@@ -2,7 +2,7 @@
 author = "Erin Thomson"
 date = 2022-04-22T04:00:00Z
 title = "Grow Great Root Vegetables"
-weight = 1
+weight = 5
 [cover]
 alt = "Bunches of red beets and yellow carrots"
 caption = "Colorful carrot and beet harvest"

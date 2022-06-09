@@ -2,7 +2,7 @@
 author = "Erin Thomson"
 date = 2022-05-27T04:00:00Z
 title = "Fertilizer: Beyond the Bag"
-weight = 1
+weight = 5
 [cover]
 alt = "Soil with fertilizer granules"
 caption = "Soil with fertilizer granules"

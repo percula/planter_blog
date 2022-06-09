@@ -2,7 +2,7 @@
 author = "Erin Thomson"
 date = 2022-04-27T04:00:00Z
 title = "Watering: More than a Garden Chore"
-weight = 1
+weight = 5
 [cover]
 alt = "A gardener with a watering can watering plants in the garden"
 caption = "A gardener watering the garden"

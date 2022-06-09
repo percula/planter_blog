@@ -2,7 +2,7 @@
 author = "Erin Thomson"
 date = 2022-04-20T04:00:00Z
 title = "Companion Planting: Diversity is Key"
-weight = 1
+weight = 5
 [cover]
 alt = "Garden with a variety of plants"
 caption = "Garden with a variety of plants"

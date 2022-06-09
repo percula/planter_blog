@@ -2,7 +2,7 @@
 author = "Erin Thomson"
 date = 2022-04-29T04:00:00Z
 title = "Grow Bountiful Berries"
-weight = 1
+weight = 5
 [cover]
 alt = "Ripening strawberries and flowers on vines"
 caption = "Ripening strawberries and flowers"

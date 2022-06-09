@@ -2,7 +2,7 @@
 author = "Erin Thomson"
 date = 2022-05-13T04:00:00Z
 title = "Grow Awesome Legumes"
-weight = 1
+weight = 5
 [cover]
 alt = ""
 caption = "Fresh garden peas"

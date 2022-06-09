@@ -2,7 +2,7 @@
 author = "Erin Thomson"
 date = 2022-04-16T04:00:00Z
 title = "Attracting Pollinators to the Garden"
-weight = 1
+weight = 5
 [cover]
 alt = "Bee with pollen on an echinacea flower"
 caption = "Bee with pollen on an echinacea flower"

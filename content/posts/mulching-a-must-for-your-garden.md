@@ -2,7 +2,7 @@
 author = "Erin Thomson"
 date = 2022-05-11T04:00:00Z
 title = "Mulching: A Must for Your Garden"
-weight = 1
+weight = 5
 [cover]
 alt = ""
 caption = "A gardener spreading mulch"

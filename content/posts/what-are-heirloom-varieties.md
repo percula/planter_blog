@@ -2,7 +2,7 @@
 author = "Erin Thomson"
 date = 2022-03-29T04:00:00Z
 title = "What Are Heirloom Varieties?"
-weight = 1
+weight = 5
 [cover]
 alt = "Tomatoes in a variety of colors"
 caption = "Colorful heirloom tomatoes"

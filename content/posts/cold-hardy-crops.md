@@ -2,7 +2,7 @@
 author = "Erin Thomson"
 date = 2022-04-05T04:00:00Z
 title = "Cold-Hardy Crops"
-weight = 1
+weight = 5
 [cover]
 alt = "Chives and lettuce in a spring garden"
 caption = "Chives and lettuce in a spring garden"

@@ -2,7 +2,7 @@
 author = "Erin Thomson"
 date = 2022-04-13T04:00:00Z
 title = "No-Till Gardening: Save Your Soil!"
-weight = 1
+weight = 5
 [cover]
 alt = "A garden shovel digging into the ground"
 caption = "Digging the garden - is it really needed?"

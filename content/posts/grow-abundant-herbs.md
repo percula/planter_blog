@@ -2,7 +2,7 @@
 author = "Erin Thomson"
 date = 2022-05-06T04:00:00Z
 title = "Grow Abundant Herbs"
-weight = 1
+weight = 5
 [cover]
 alt = "Herb plants ready for planting"
 caption = ""
