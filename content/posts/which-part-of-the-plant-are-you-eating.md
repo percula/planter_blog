@@ -16,7 +16,7 @@ Below is a diagram of the different plant parts we eat. Keep reading to see deta
 
 ![parts of plant](/uploads/partsofplantbarblog.png "Parts of Plant")
 
-[\[11\]](https://www.republicworld.com/lifestyle/food/take-a-look-at-vegetables-that-are-technically-flowers.html#:\~:text=Vegetables%20that%20are%20flower%3A%20Broccoli,are%20consumed%20as%20a%20vegetable)
+[\[11\]](https://web.extension.illinois.edu/gpe/glossary/receptacle.htmlas%20a%20vegetable.)
 
 ### Roots
 
