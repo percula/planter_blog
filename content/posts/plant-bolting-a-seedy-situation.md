@@ -10,7 +10,7 @@ caption = "A radish plant starting to bolt"
 image = "/uploads/bolting-radish.jpg"
 
 +++
-The first time your hear a gardener use the word ‘bolting’ in the same sentence as ‘plants’ it can be a bit of a head-scratcher (_...are they running away?_) In the gardening context, bolting refers to a non-fruiting plant that has started to produce flowers and seeds- also known as ‘going to seed’. Gardeners often see bolting as a bad thing, but it doesn’t have to be!
+The first time your hear a gardener use the word ‘bolting’ in the same sentence as ‘plants’ it can be a bit of a head-scratcher (_...are they running away?_) In the gardening world, bolting refers to a non-fruiting plant that has started to produce flowers and seeds- also known as ‘going to seed’. Gardeners often see bolting as a bad thing, but it doesn’t have to be!
 
 ### What is bolting?
 
