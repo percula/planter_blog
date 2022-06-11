@@ -7,14 +7,17 @@ googleAnalytics: G-3KCJ1RRWM3
 
 menu:
   main:
-    - name: Search
-      url: search/
-      weight: 5
+    - name: Blog Home
+      url: "/"
+      weight: 10
+#    - name: Search
+#      url: search/
+#      weight: 5
     - name: Documentation
       url: "https://info.planter.garden"
       weight: 10
     - name: Get Planter
-      url: "https://planter.garden"
+      url: "https://planter.garden/#download"
       weight: 10
 
 params:
@@ -50,6 +53,7 @@ params:
     text: "Planter"
     icon: /apple-touch-icon.png
     iconHeight: 28
+    url: "https://planter.garden"
 
 outputs:
   home:
