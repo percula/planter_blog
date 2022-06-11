@@ -1,7 +1,6 @@
 +++
 author = "Erin Thomson"
 date = 2022-06-10T04:00:00Z
-draft = true
 override_position = false
 title = "Plant Bolting: A Seedy Situation"
 weight = 5
@@ -45,4 +44,4 @@ Not convinced about those radish pods? Still want to grow fresh lettuce mid-seas
 
 Despite your best efforts, at some point your bolt-prone plants will go to seed. When this happens you can pull the plants up and [compost](https://blog.planter.garden/posts/compost-add-life-to-your-garden/) them to add nutrients back to your soil. Or, leave them to do their thing and enjoy the crop in a new way!
 
-{{ affiliate }}
+{{< affiliate >}}
