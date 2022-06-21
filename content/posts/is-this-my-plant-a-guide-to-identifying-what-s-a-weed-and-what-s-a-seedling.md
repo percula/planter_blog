@@ -1,7 +1,6 @@
 +++
 author = "Abigail Bar"
 date = 2022-06-21T04:00:00Z
-draft = true
 override_position = false
 title = "Is This My Plant? A Guide to Identifying What’s a Weed and What’s a Seedling"
 weight = 5
@@ -15,7 +14,7 @@ Weeds. They’re pesky and hard to manage, but crucial to deal with to have a su
 
 ### Is this a Plant I Grew?
 
-The one nearly foolproof method of knowing if the little plant in your garden is a seedling or a weedling is to grow a small quantity of seeds in a separate container to see what the seedling should look like [\[4\]](https://www.growveg.com/guides/6-ways-to-tell-seedlings-from-weedlings/). Compare it to the seedlings in your garden, and weed out the rest. Another good habit is to use markers where you plant your seeds to know at least an approximate location of where they are [\[4\]](https://www.growveg.com/guides/6-ways-to-tell-seedlings-from-weedlings/). Additionally, cotyledons, or the first leaves to grow on a seedling, can be confusing to identify, as they often don’t look like the adult leaves on the plant [\[2\]](https://www.gardeningknowhow.com/garden-how-to/propagation/seeds/how-to-tell-seedlings-from-weeds.htm). This means that waiting for plants to develop their true leaves can make them much more recognizable, and thus you’ll be less likely to confuse them for weeds. It may take a few weeks for plants to develop true leaves [\[5\]](https://www.almanac.com/content/vegetable-seedling-pictures-and-identification). Below are pictures of a sunflower cotyledon and an older sunflower seedling; notice how its true leaves appear much more recognizable than the young leaves. This just emphasizes the importance of avoiding weeding plants that are young, because they could be your plant, just at a very immature stage.
+The one nearly foolproof method of knowing if the little plant in your garden is a seedling or a weed is to grow a small quantity of seeds in a separate container to see what the seedling should look like [\[4\]](https://www.growveg.com/guides/6-ways-to-tell-seedlings-from-weedlings/). Compare it to the seedlings in your garden, and weed out the rest. Another good habit is to use markers where you plant your seeds to know at least an approximate location of where they are [\[4\]](https://www.growveg.com/guides/6-ways-to-tell-seedlings-from-weedlings/). Additionally, cotyledons, or the first leaves to grow on a seedling, can be confusing to identify, as they often don’t look like the adult leaves on the plant [\[2\]](https://www.gardeningknowhow.com/garden-how-to/propagation/seeds/how-to-tell-seedlings-from-weeds.htm). This means that waiting for plants to develop their true leaves can make them much more recognizable, and thus you’ll be less likely to confuse them for weeds. It may take a few weeks for plants to develop true leaves [\[5\]](https://www.almanac.com/content/vegetable-seedling-pictures-and-identification). Below are pictures of a sunflower cotyledon and an older sunflower seedling; notice how its true leaves appear much more recognizable than the young leaves. This just emphasizes the importance of avoiding weeding plants that are young, because they could be your plant, just at a very immature stage.
 
 ![sunflower seedling](/uploads/sunflowerseedlingblog.jpg "Sunflower Seedling")
 ![sunflower big seedling](/uploads/sunflowerblog.jpg "Sunflower Big Seedling")
@@ -56,7 +55,7 @@ The “toothed” leaves of tomatoes develop quickly so wait to see if your plan
 
 ### Common Weeds
 
-Now that we’ve gone through some important practices when it comes to seedling identification, let’s take a look at some common weed varieties, so that you can better recognize to pluck them in your garden:
+Now that we’ve gone through some important practices when it comes to seedling identification, let’s take a look at some common weed varieties, so that you can better recognize to pluck them in your garden.
 
 **Dandelions**
 
@@ -89,7 +88,7 @@ This weed is characterized by large oval leaves low to the ground and is picture
 
 ### Takeaways
 
-Weeds can hinder your garden’s growth, but it is important to first learn how to identify them, so you don’t pluck out a plant you intended to grow. Knowing how typical weeds look is crucial to improving your identification skills. But if you’re not sure what a small plant is, wait for it to develop true leaves, so you can be more confident of whether or not it is something you planted. Check out the Planter app for more information on successfully growing your seedlings into tasty fruits and vegetables.
+Weeds can hinder your garden’s growth, but it is important to first learn how to identify them, so you don’t pluck out a plant you intended to grow. Knowing how typical weeds look is crucial to improving your seedling identification skills. But if you’re not sure what a small plant is, wait for it to develop true leaves, so you can be more confident of whether or not it is something you planted. Check out the [Planter ](https://planter.garden)app for more information on successfully growing your seedlings into tasty fruits and vegetables.
 
 **Citations**
 
