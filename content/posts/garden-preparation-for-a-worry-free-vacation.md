@@ -19,7 +19,7 @@ If you’re only going away for a couple days, your plants might be fine without
 
 Vacation travel often happens during the summer months when there are more likely to be hot, dry spells that can quickly zap your plants. As your vacation approaches, start checking the weather forecast. If there’s a high probability of rain on some of the days you’ll be away, your garden may not need extra watering. If temperatures are soaring and the chance of rain is low, you’ll need to think about how to make sure your plants will have enough water while you’re gone.
 
-Summer is also the start of peak harvesting season. If you leave your garden without being harvested regularly, some crops may go to waste (unless you can find creative ways to use monster-size zucchini…) and the plants’ production may start to slow due to not being harvested. If your plants are starting to produce, you’ll want to think about how to get on top of harvesting while you're gone.
+Summer is also the start of peak harvesting season. If you leave your garden without being harvested regularly, some crops may go to waste (unless you can find creative ways to use monster-size zucchini…) and the plants’ production may start to slow due to not being harvested. If your plants are starting to produce, you’ll also want to think about how to get on top of harvesting while you're gone.
 
 ![Vegetables lined up on the edge of a garden bed](/uploads/garden-harvest.jpg)
 
@@ -29,7 +29,7 @@ Another consideration is how vulnerable your plants are. Newly planted transplan
 
 The best way to make sure your garden is cared for while you’re gone is to have another avid gardener come to take care of watering and harvesting your garden. Often though, if you are lucky enough to have someone who can come care for your garden, its family, neighbors, or friends who might not be as garden-savvy. If you ask a non-gardener to take care of your garden while you’re away, it can help to leave clear written instructions on how often you think they’d need to water, how much to water, and how to identify and harvest any crops that are ready.
 
-If you don’t have anyone nearby who you can entrust your garden care to, there are other ways to help your plants survive while you’re gone:
+If you don’t have anyone nearby who you can entrust your garden care to, there are other ways to help your garden survive while you’re gone:
 
 * Hold off on transplanting plants or planting seeds right before leaving- these have the highest likelihood of dying if they are neglected for a few days.
 * Deep water your garden daily starting a few days before leaving to ensure the soil has plenty of moisture.
