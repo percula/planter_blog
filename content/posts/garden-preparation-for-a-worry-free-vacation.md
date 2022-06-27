@@ -1,7 +1,6 @@
 +++
 author = "Erin Thomson"
 date = 2022-06-27T04:00:00Z
-draft = true
 override_position = false
 title = "Garden Preparation for a Worry-Free Vacation"
 weight = 5
@@ -27,7 +26,7 @@ Another consideration is how vulnerable your plants are. Newly planted transplan
 
 ### How to prepare your garden for vacation
 
-The best way to make sure your garden is cared for while you’re gone is to have another avid gardener come to take care of watering and harvesting your garden. Often though, if you are lucky enough to have someone who can come care for your garden, its family, neighbors, or friends who might not be as garden-savvy. If you ask a non-gardener to take care of your garden while you’re away, it can help to leave clear written instructions on how often you think they’d need to water, how much to water, and how to identify and harvest any crops that are ready.
+The best way to make sure your garden is cared for while you’re gone is to have another avid gardener come to take care of watering and harvesting your garden. Often though, if you are lucky enough to have someone who can come care for your garden, its family, neighbors, or friends who might not be as garden-savvy. If you ask a non-gardener to take care of your garden while you’re away, it can help to leave clear written instructions on how often you think they’d need to water, how much to water and where, and how to identify and harvest any crops that are ready.
 
 If you don’t have anyone nearby who you can entrust your garden care to, there are other ways to help your garden survive while you’re gone:
 
