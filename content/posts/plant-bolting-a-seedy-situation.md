@@ -34,7 +34,7 @@ Not convinced about those radish pods? Still want to grow fresh lettuce mid-seas
 
 * Use shade to your advantage: while most garden plants need full sun, many of the crops that tend to bolt, such as lettuce, can grow in part-shade. Planting bolt-prone crops in shadier locations can help to delay bolting significantly.
 * Ensure the plant has sufficient moisture and nutrients. A stressed plant will tend to hasten flowering and seed production.
-* Regular harvesting of the outer (oldest) leaves of leafy vegetables and herbs can help encourage the plant to keep producing new leaves. Some leafy crops can be harvested by hand but for a delicate job you may want to use fine-tipped [pruning shears](https://www.amazon.com/s?k=organic+fertilizer&tag=planter05-20).
+* Regular harvesting of the outer (oldest) leaves of leafy vegetables and herbs can help encourage the plant to keep producing new leaves. Some leafy crops can be harvested by hand but for a delicate job you may want to use fine-tipped [pruning shears](https://www.amazon.com/s?k=pruning+shears).
 
 ![](/uploads/harvest-lettuce.jpg)
 
