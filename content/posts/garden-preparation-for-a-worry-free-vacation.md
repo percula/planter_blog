@@ -5,8 +5,8 @@ override_position = false
 title = "Garden Preparation for a Worry-Free Vacation"
 weight = 5
 [cover]
-alt = "A veggie garden in the sun"
-caption = "A veggie garden in the sun"
+alt = "A garden in the sun"
+caption = "A garden in the sun"
 image = "/uploads/garden-in-sun.jpg"
 
 +++
