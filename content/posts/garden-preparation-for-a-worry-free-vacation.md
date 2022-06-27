@@ -32,12 +32,14 @@ If you don’t have anyone nearby who you can entrust your garden care to, there
 
 * Hold off on transplanting plants or planting seeds right before leaving- these have the highest likelihood of dying if they are neglected for a few days.
 * Deep water your garden daily starting a few days before leaving to ensure the soil has plenty of moisture.
-* If your budget allows, install [drip irrigation](https://www.amazon.com/s?k=drip+irrigation&tag=planter05-20) or [soaker hoses](https://www.amazon.com/s?k=soaker+hose&tag=planter05-20) and put the system on a [watering timer](https://www.amazon.com/s?k=watering+timer&tag=planter05-20) to take care of the watering for you. If you are planning on using an irrigation system with a timer, make sure to test it several times before leaving.
+* If your budget allows, install [drip irrigation](https://www.amazon.com/s?k=drip+irrigation) or [soaker hoses](https://www.amazon.com/s?k=soaker+hose) and put the system on a [watering timer](https://www.amazon.com/s?k=watering+timer) to take care of the watering for you. If you are planning on using an irrigation system with a timer, make sure to test it several times before leaving.
 * Remove any [weeds](https://blog.planter.garden/posts/garden-weeds-stem-the-spread/) that can compete for water and nutrients and be sure your garden has a thick layer of [mulch](https://blog.planter.garden/posts/mulching-a-must-for-your-garden/) covering it to help keep moisture in the soil.
-* Add some shade for plants that tend to suffer in dry, hot weather, such as leafy greens. You can install [shade cloth](https://www.amazon.com/s?k=shade+cloth&tag=planter05-20) over them, or rig up some old bedsheets for a quick-and-cheap solution - just make sure the plants will get enough airflow.
-* Container plants should also be moved to a shady location. To ensure the containers have enough moisture, you can purchase (or make your own) [watering spikes](https://www.amazon.com/s?k=watering+spikes&tag=planter05-20); or place the containers in buckets or trays and fill the trays partway with water so the plants can take up water as they need it. Take the plants out of the shade and the trays when you get home, though, or they may start to suffer.
+* Add some shade for plants that tend to suffer in dry, hot weather, such as leafy greens. You can install [shade cloth](https://www.amazon.com/s?k=shade+cloth) over them, or rig up some old bedsheets for a quick-and-cheap solution - just make sure the plants will get enough airflow.
+* Container plants should also be moved to a shady location. To ensure the containers have enough moisture, you can purchase (or make your own) [watering spikes](https://www.amazon.com/s?k=watering+spikes); or place the containers in buckets or trays and fill the trays partway with water so the plants can take up water as they need it. Take the plants out of the shade and the trays when you get home, though, or they may start to suffer.
 * Proactively harvest any veggies that could go from _not-quite-ready_ to _beyond-ready_ while you’re away.
 
 Plan for your garden while you’re gone so you can _enjoy_ the hot sunny weather, rather than wondering if your plants are burning up!
 
 ![](/uploads/beachfront-view.jpg)
+
+{{< affiliate >}}
