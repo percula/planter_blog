@@ -23,7 +23,7 @@ Summer is also the start of peak harvesting season. If you leave your garden wit
 
 ![Vegetables lined up on the edge of a garden bed](/uploads/garden-harvest.jpg)
 
-Another consideration is how vulnerable your plants are. Newly planted transplants and young emerging seedlings need more consistent moisture compared to well-established plants. Also, container plants are especially prone to drying out completely on hot days. If you have vulnerable plants, it’s a good idea to take steps to help them survive.
+Another consideration is how vulnerable your plants are. Newly planted transplants and young emerging seedlings need more consistent moisture compared to well-established plants. Also, container plants are especially prone to drying out completely on hot days. If you have vulnerable plants, they will likely need some extra care to make it through.
 
 ### How to prepare your garden for vacation
 
