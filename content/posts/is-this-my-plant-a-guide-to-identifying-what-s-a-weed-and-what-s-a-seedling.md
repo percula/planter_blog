@@ -2,7 +2,7 @@
 author = "Abigail Bar"
 date = 2022-06-21T04:00:00Z
 override_position = false
-title = "Is This My Plant? A Guide to Identifying What’s a Weed and What’s a Seedling"
+title = "Is This My Plant? A Guide to Identifying What's a Weed and What's a Seedling"
 weight = 5
 [cover]
 alt = ""
