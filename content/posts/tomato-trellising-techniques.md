@@ -44,3 +44,5 @@ There are many different ways to provide support for your tomato plants. Three o
 There are many variations on these techniques, as well as some truly creative DIY trellis builds. So long as your tomato plants are lifted up off the ground and supported, feel free to try different options and use materials that are most readily available for you. Just be sure the structure is strong enough to withstand windy weather…and the weight of all those ripening tomatoes getting ready to be harvested!
 
 ![Staked tomato plants in the sun](/uploads/tomato-plants-in-sun.jpg)
+
+{{ <affiliate> }}
