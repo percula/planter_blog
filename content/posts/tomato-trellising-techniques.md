@@ -45,4 +45,4 @@ There are many variations on these techniques, as well as some truly creative DI
 
 ![Staked tomato plants in the sun](/uploads/tomato-plants-in-sun.jpg)
 
-{{ <affiliate> }}
+{{< affiliate >}}
