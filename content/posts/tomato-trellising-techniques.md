@@ -40,7 +40,7 @@ There are many different ways to provide support for your tomato plants. Some of
 
 ![Tomato plant in a cage](/uploads/tomato-in-cage.jpg)
 
-**Florida weave** (or **basket weave**) trellising involves setting up tall, sturdy posts at either end of the tomato bed (and at regular intervals between the tomato plants if your bed is long), then using [twine](https://www.amazon.com/s?k=garden+twine) to enclose the plants along both sides. The twine is looped around each of the posts and pulled tight to ensure the plants won’t flop to either side. This technique is mostly used for determinate tomatoes that will only grow so high, but it can be used for indeterminate tomatoes by constructing a tall trellis and cutting off the top of the growing stem once the plants reach the top.
+**Florida weave** (or **basket weave**) trellising involves setting up tall, sturdy posts at either end of the tomato bed (and at regular intervals between the tomato plants if your bed is long), then using [twine](https://www.amazon.com/s?k=garden+twine) to enclose the plants along both sides. The twine is looped around each of the posts and pulled tight to ensure the plants won’t flop to either side. This technique is mostly used for determinate tomatoes that will only grow so high, but it can be used for indeterminate tomatoes by constructing a tall trellis and cutting off the top of the growing stem once the plants reach the height of the trellis.
 
 ![Tomato plants in a Florida weave trellis](/uploads/tomato-weave.jpg)
 
