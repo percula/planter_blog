@@ -34,7 +34,7 @@ Check whether the tomato varieties you grow are determinate or indeterminate, to
 
 ### Tomato trellising options
 
-There are many different ways to provide support for your tomato plants. Three of the most common tomato trellising techniques are:
+There are many different ways to provide support for your tomato plants. Some of the most common are:
 
 [**Tomato cages**](https://www.amazon.com/s?k=tomato+cage) while technically not a trellis, tomato cages are probably _the_ most well-known tomato support structures. Basic tomato cages found at big-box stores can sometimes be a bit flimsy and might not provide much support for plants that are heavily laden with fruit. Shorter cages also won’t work well for indeterminate tomatoes that want to climb- they’ll need an extra-tall cage. Cages can still be a good option, especially if you look for ones that are sturdily built (or, build your own!)
 
