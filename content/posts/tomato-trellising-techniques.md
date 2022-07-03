@@ -1,7 +1,6 @@
 +++
 author = "Erin Thomson"
-date = 2022-07-01T04:00:00Z
-draft = true
+date = 2022-07-03T04:00:00Z
 override_position = false
 title = "Tomato Trellising Techniques"
 weight = 5
@@ -47,6 +46,6 @@ There are many different ways to provide support for your tomato plants. Three o
 
   ![Tomato plants in a string trellis](/uploads/tomatoes-with-string.jpg)
 
-There are many variations on these techniques, as well as some truly creative DIY trellis builds. So long as your tomato plants are lifted up off the ground and supported, feel free to try different options and use materials that are most readily available for you. Just be sure the structure is strong enough to withstand windy weather…and the weight of all those ripening tomatoes getting ready to be harvested!
+There are many variations on these techniques as well as some truly creative DIY trellis builds. So long as your tomato plants are lifted up off the ground and supported, feel free to try different options and use materials that are most readily available for you. Just be sure the structure is strong enough to withstand windy weather…and the weight of all those delicious ripening tomatoes getting ready to be harvested!
 
 {{< affiliate >}}
