@@ -64,6 +64,13 @@ fields:
   showOnly:
     field: override_position
     value: true
+- name: plants
+  type: text
+  config:
+    required: false
+  label: Related plant
+  description: Plant name <strong>must match</strong> the name in Planter. Name must
+    be <strong>lowercase.</strong>
 pages:
 - content/posts/attracting-pollinators-to-the-garden.md
 - content/posts/cold-hardy-crops.md
