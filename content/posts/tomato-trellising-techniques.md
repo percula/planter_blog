@@ -2,6 +2,7 @@
 author = "Erin Thomson"
 date = 2022-07-03T04:00:00Z
 override_position = false
+plants = ["tomatoes"]
 title = "Tomato Trellising Techniques"
 weight = 5
 [cover]
