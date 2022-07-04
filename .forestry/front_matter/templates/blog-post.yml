@@ -65,11 +65,13 @@ fields:
     field: override_position
     value: true
 - name: plants
-  type: text
+  type: list
   config:
-    required: false
-  label: Related plant
-  description: Plant name <strong>must match</strong> the name in Planter. Name must
+    use_select: false
+    min: 
+    max: 
+  label: Related Plants
+  description: Plant names <strong>must match</strong> the name in Planter. Name must
     be <strong>lowercase.</strong>
 pages:
 - content/posts/attracting-pollinators-to-the-garden.md
