@@ -4,3 +4,6 @@
     [headers.values]
     Access-Control-Allow-Origin = "https://planter.garden"
     Access-Control-Allow-Methods = "GET"
+  for = "/plants/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"
