@@ -1,6 +1,8 @@
 +++
 author = "Erin Thomson"
 date = 2022-05-06T04:00:00Z
+override_position = false
+plants = ["thyme", "tarragon", "stevia", "sage", "rosemary", "parsley", "oregano", "mustard", "mint", "marjoram", "lemongrass", "lemon verbena", "lemon balm", "lavender", "ginger", "fennel", "dill", "bee balm", "borage", "catnip", "cilantro", "chervil", "basil"]
 title = "Grow Abundant Herbs"
 weight = 5
 [cover]
