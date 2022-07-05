@@ -1,6 +1,8 @@
 +++
 author = "Erin Thomson"
 date = 2022-04-22T04:00:00Z
+override_position = false
+plants = ["parsley root", "parsnips", "turnips", "rutabega", "radishes", "carrots", "beets"]
 title = "Grow Great Root Vegetables"
 weight = 5
 [cover]
