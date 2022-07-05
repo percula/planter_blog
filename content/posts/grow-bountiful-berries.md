@@ -1,6 +1,8 @@
 +++
 author = "Erin Thomson"
 date = 2022-04-29T04:00:00Z
+override_position = false
+plants = ["strawberries", "raspberries", "elderberries", "blueberries", "blackberries"]
 title = "Grow Bountiful Berries"
 weight = 5
 [cover]
