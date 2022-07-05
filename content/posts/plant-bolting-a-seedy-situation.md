@@ -2,6 +2,7 @@
 author = "Erin Thomson"
 date = 2022-06-10T04:00:00Z
 override_position = false
+plants = ["broccoli", "spinach", "lettuce"]
 title = "Plant Bolting: A Seedy Situation"
 weight = 5
 [cover]
