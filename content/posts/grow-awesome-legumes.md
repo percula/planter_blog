@@ -1,6 +1,8 @@
 +++
 author = "Erin Thomson"
 date = 2022-05-13T04:00:00Z
+override_position = false
+plants = ["peas", "peanuts", "beans"]
 title = "Grow Awesome Legumes"
 weight = 5
 [cover]
