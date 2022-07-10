@@ -26,9 +26,9 @@ While plant leaves naturally come in many variations of green, if they start to 
 
 **Brown leaves** are commonly a sign of underwatering (or, over-watering…again!), or over-fertilizing. Bump up your watering if you think the plant is thirsty, or to help flush away excess fertilizer. If overwatering is the likely cause, scale back on watering and again check the drainage if you are growing in containers. Some diseases can cause leaf browning too so if you suspect that the issue is not water or fertilizer, or if there are other unusual spots or markings on the leaves, start researching the specific browning pattern you are seeing to identify the potential disease.
 
-![](/uploads/brown-leaves.jpg)
+![Brown blueberry leaves](/uploads/brown-leaves.jpg)
 
-**Purple leaves** can be a sign of a phosphorus deficiency - in this case, apply a fertilizer that contains phosphorus.
+**Leaves turning purple** can be a sign of a phosphorus deficiency - in this case, apply a fertilizer that contains phosphorus.
 
 And if the leaves have a new **powdery white coating** that was not there before, a common cause is powdery mildew. Powdery mildew cannot be cured once it sets in; it can only be managed. Look for a [powdery mildew spray](https://www.amazon.com/s?k=powdery+mildew+spray)- or find a recipe to make your own- to help contain the problem.
 
@@ -40,8 +40,8 @@ Inspect the plant thoroughly for insects- oftentimes they will be clinging onto 
 
 Another technique if you can’t catch the offender in the act is to look at the damage pattern. Mottled leaves are often a sign of aphids, whereas trails being chewed through leaves are a telltale sign of leaf miners. If you wake up every morning to find new holes in your plants that were not there the day before, the culprit is likely slugs who only come out at night. And if your plants are regularly being mowed down, it could be rabbits having a munch.
 
-![](/uploads/mottled-leaves.jpg)  
-![](/uploads/aphids-on-leaf.jpg)
+![Mottled leaves](/uploads/mottled-leaves.jpg)  
+![Mottled leaves underside with aphids](/uploads/aphids-on-leaf.jpg)
 
 It often takes a combination of research and process of elimination to figure out what’s ailing your plants. You won’t always be certain about what’s wrong, but you can try non-invasive treatments to see if they help. Use the [Notes and Events ](https://info.planter.garden/premium/#notes-and-events)premium features in [Planter](https://planter.garden/) to keep track of your observations, which treatments you try, and the results.
 
