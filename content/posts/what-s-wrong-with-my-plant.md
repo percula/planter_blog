@@ -45,6 +45,6 @@ Another technique if you can’t catch the offender in the act is to look at the
 
 It often takes a combination of research and process of elimination to figure out what’s ailing your plants. You won’t always be certain about what’s wrong, but you can try non-invasive treatments to see if they help. Use the [Notes and Events ](https://info.planter.garden/premium/#notes-and-events)premium features in [Planter](https://planter.garden/) to keep track of your observations, which treatments you try, and the results.
 
-Every garden has problems, so don’t let them shake your gardening confidence. Keep your garden going strong with keen troubleshooting, and no matter what happens keep on planting with [Planter!](https://planter.garden/)
+Every garden has problems, so don’t let them shake your gardening confidence. Keep your garden going strong with keen troubleshooting, and no matter what happens keep on planting with [Planter](https://planter.garden/)!
 
 {{ <affiliate> }}
