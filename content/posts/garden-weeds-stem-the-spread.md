@@ -1,6 +1,8 @@
 +++
 author = "Erin Thomson"
 date = 2022-06-03T04:00:00Z
+override_position = false
+plants = []
 title = "Garden Weeds: Stem the Spread"
 weight = 5
 [cover]
@@ -43,7 +45,9 @@ Hand-weeding is labor intensive, but it is the best option for a delicate weedin
 
 Surface cultivation is efficient for weeding larger areas, but it can be difficult to maneuver around plants to avoid damaging them. It also may not completely remove the deep-rooted weeds, although with regular cultivation they will eventually wither away.
 
-Boiling water can be poured directly onto weeds to kill them, but don’t use boiling water anywhere near your plants. This method is best used for targeting larger weeds, rather than boiling your entire garden bed!
+Boiling water can be poured directly onto weeds to kill them, but don’t use boiling water anywhere near your plants. This method is best used for targeting larger weeds, rather than boiling your entire garden bed!  
+  
+For weeds away
 
 Persistence is the key to keeping weeding manageable. Use the [Notes and Events](https://info.planter.garden/premium/#notes-and-events) Premium features in [Planter](https://planter.garden/) to keep track of which garden areas have been weeded and which are due for maintenance!
 
