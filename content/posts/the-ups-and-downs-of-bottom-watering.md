@@ -57,3 +57,5 @@ Well, good news! Most pots with drainage holes come with trays to match, but rou
 **The Science: How Plants Carry Water**
 
 Plants cycle through water through a process called transpiration; During the day, the sun’s heat evaporates water from tiny pores in the leaves called stomata. As water leaves the system there, more water is drawn up through the xylem (the primary circulatory channel in a plant) all the way up from the roots! Think of it like a syringe; if you pull away the handle (in this case, the water leaving the leaves), liquid is pulled into the syringe at the bottom (water coming in the roots). Between transpiration and capillary action, a tree can get its water and nutrients far above the ground, against gravity, with no muscles - simply driven by the sun’s heat!
+
+{{< affiliate >}}
