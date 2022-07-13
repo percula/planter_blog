@@ -1,6 +1,6 @@
 +++
 author = "Erin Thomson"
-date = 2022-07-09T04:00:00Z
+date = 2022-07-10T04:00:00Z
 override_position = false
 plants = []
 title = "What's Wrong With My Plant?"
