@@ -11,8 +11,6 @@ caption = "Leaf miner damage in beet leaves"
 image = "/uploads/leaf-miner-damage.jpg"
 
 +++
-.
-
 If you have plants in your garden that are struggling, you are not alone. Even experienced gardeners have challenges in the garden. Being able to quickly identify and troubleshoot plant problems is an important gardening skill. The first step is to observe: spend a few minutes walking through your garden every day to look for signs of trouble:
 
 ### Plant wilting
