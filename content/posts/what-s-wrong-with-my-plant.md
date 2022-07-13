@@ -37,13 +37,13 @@ While plant leaves naturally come in many variations of green, if they start to 
 
 And if the leaves have a new **powdery white coating** that was not there before, a common cause is powdery mildew. Powdery mildew cannot be cured once it sets in; it can only be managed. Look for a [powdery mildew spray](https://www.amazon.com/s?k=powdery+mildew+spray)- or find a DIY powdery mildew spray recipe- to help contain the problem.
 
-### Holes in leaves, damaged or ‘mottled’ leaves
+### Leaves with holes, damaged or mottled leaves
 
-Seeing damaged leaves or mottled leaves are usually a sign of pests feasting on your plants. The trick is to identify _which_ pest is doing the deed.
+Seeing leaves with holes, damaged or mottled leaves are usually a sign of pests feasting on your plants. The trick is to identify _which_ pest is doing the deed.
 
 Inspect the plant thoroughly for insects- oftentimes they will be clinging onto the undersides of the leaves or hiding in the canopy. Getting eyes on the pest will make it much easier to identify them and research potential solutions.
 
-Another technique if you can’t catch the offender in the act is to look at the damage pattern. Mottled leaves are often a sign of aphids, whereas trails being chewed through leaves are a telltale sign of leaf miners. If you wake up every morning to find new holes in your plants that were not there the day before, the culprit is likely slugs who only come out at night. And if your plants are regularly being mowed down, it could be rabbits having a munch.
+Another technique if you can’t catch the offender in the act is to look at the damage pattern. Mottled leaves are often a sign of aphids, whereas trails being chewed through leaves are a telltale sign of leaf miners. If you wake up every morning to find new holes in your plants that were not there the day before, the culprit is likely slugs who come out at night. And if your plants are regularly being mowed down, it could be rabbits having a munch.
 
 ![Mottled leaves](/uploads/mottled-leaves.jpg)  
 ![Mottled leaves underside with aphids](/uploads/aphids-on-leaf.jpg)
