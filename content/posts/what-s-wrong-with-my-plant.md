@@ -1,7 +1,6 @@
 +++
 author = "Erin Thomson"
 date = 2022-07-09T04:00:00Z
-draft = true
 override_position = false
 plants = []
 title = "What's Wrong With My Plant?"
@@ -14,7 +13,7 @@ image = "/uploads/leaf-miner-damage.jpg"
 +++
 .
 
-If you have plants in your garden that are struggling, you are not alone. Even experienced gardeners have challenges in the garden. Being able to quickly identify and troubleshoot plant problems is an important gardening skill. The first step is to observe: spend a few minutes walking through your garden every day to look for signs of trouble. If you do spot a problem- use this article as a starting point, and summon your inner garden detective to decipher what the cause could be
+If you have plants in your garden that are struggling, you are not alone. Even experienced gardeners have challenges in the garden. Being able to quickly identify and troubleshoot plant problems is an important gardening skill. The first step is to observe: spend a few minutes walking through your garden every day to look for signs of trouble:
 
 ### Plant wilting
 
@@ -49,6 +48,6 @@ It often takes a combination of research and process of elimination to figure ou
 
 ![Screenshot of a Note in Planter](/uploads/tomato-note-screenshot.jpg)
 
-Every garden has its problems, so don’t let them shake your gardening confidence. Keep your garden going strong by keeping and eye out for trouble, and above all else keep on planting!
+Every garden has its problems, but don’t let them shake your gardening confidence. Keep your garden going strong by keeping and eye out for trouble, and above all else keep on planting!
 
 {{ <affiliate> }}
