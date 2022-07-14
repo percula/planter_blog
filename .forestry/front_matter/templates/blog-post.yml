@@ -74,6 +74,7 @@ fields:
   description: Plant names <strong>must match</strong> the name in Planter. Name must
     be <strong>lowercase.</strong>
 pages:
+- content/posts/apartment-friendly-gardening.md
 - content/posts/attracting-pollinators-to-the-garden.md
 - content/posts/cold-hardy-crops.md
 - content/posts/companion-planting-diversity-is-key.md
