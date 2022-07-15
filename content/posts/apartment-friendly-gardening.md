@@ -18,61 +18,61 @@ Do you live in an apartment or a home without a yard? It’s easy to think of ga
 
 ### Porch gardening:
 
-If you have a patio or porch, you’ll be happy to know that you still have plenty of opportunities to start gardening. Containers are great to place on your patio or porch, allowing you to have delicious plants without the time or space needed for a backyard garden. Growing your plants in containers can even make it easier to spot and pluck weeds \[12\]. In terms of container size, depending on the plants you’re looking to grow the size can vary. For certain greens like kale and spinach, as well as smaller tomatoes a 1-2 gallon well draining pot will be sufficient \[14\]. So if space is an issue, stick to greens!
+If you have a patio or porch, you’ll be happy to know that you still have plenty of opportunities to start gardening. Containers are great to place on your patio or porch, allowing you to have delicious plants without the time or space needed for a backyard garden. Growing your plants in containers can even make it easier to spot and pluck weeds [\[12\]](https://www.thespruce.com/great-vegetables-to-grow-in-containers-848214). In terms of container size, depending on the plants you’re looking to grow the size can vary. For certain greens like kale and spinach, as well as smaller tomatoes a 1-2 gallon well draining pot will be sufficient [\[14\]](https://savvygardening.com/patio-vegetable-garden/). So if space is an issue, stick to greens!
 
 ![](/uploads/watercanblog3.jpg)
 
-**Kale:** Of the greens you can grow in small containers, kale is a relatively easy option and it is frost tolerant! Start seeds indoors about 6 weeks before your last frost, and then transplant to your chosen container. Water when the top inch of soil is dry, fertilize every other week, and allow for 8 hours of sunlight \[11\].
+**Kale:** Of the greens you can grow in small containers, kale is a relatively easy option and it is frost tolerant! Start seeds indoors about 6 weeks before your last frost, and then transplant to your chosen container. Water when the top inch of soil is dry, fertilize every other week, and allow for 8 hours of sunlight [\[11\]](https://gardenerspath.com/plants/vegetables/grow-kale-containers/).
 
 ![](/uploads/kaleblog3.jpg)
 
-**Tomatoes:** Patio varieties of tomatoes can be purchased and grown in your porch containers \[13\]. Grow tomatoes with full sun, and larger varieties should also have larger containers. Consider adding a tomato cage for vines to grow and have support on \[12\].
+**Tomatoes:** Patio varieties of tomatoes can be purchased and grown in your porch containers [\[13\]](https://www.gardeners.com/how-to/patio-vegetable-garden/8576.html). Grow tomatoes with full sun, and larger varieties should also have larger containers. Consider adding a tomato cage for vines to grow and have support on [\[12\]](https://www.thespruce.com/great-vegetables-to-grow-in-containers-848214).
 
 ![](/uploads/tomatoblog3.jpg)
 
-**Lettuce:** If your patio doesn’t receive full sun, consider planting lettuce in your containers, as this plant does not require as much light as other plants \[12\].
+**Lettuce:** If your patio doesn’t receive full sun, consider planting lettuce in your containers, as this plant does not require as much light as other plants [\[12\]](https://www.thespruce.com/great-vegetables-to-grow-in-containers-848214).
 
 ![](/uploads/lettuceblog3.jpg)
 
-**Peas:** Peas can be grown at the beginning of the season in a container, and then swapped out for another plant later in the season if you’re looking for some variety while not using too many containers \[12\].
+**Peas:** Peas can be grown at the beginning of the season in a container, and then swapped out for another plant later in the season if you’re looking for some variety while not using too many containers [\[12\]](https://www.thespruce.com/great-vegetables-to-grow-in-containers-848214).
 
 ![](/uploads/snappeablog3.jpg)
 
-Some other plants that can be grown in containers on your porch include squash, hot peppers, arugula, and eggplant \[12\].
+Some other plants that can be grown in containers on your porch include squash, hot peppers, arugula, and eggplant [\[12\]](https://www.thespruce.com/great-vegetables-to-grow-in-containers-848214).
 
 ### Indoor Gardening:
 
 If you don’t have a patio or porch, don’t fear, there are still options for you to use your green thumb. Several plants that can be grown on your patio can also be grown indoors, such as tomatoes and lettuce. There are plenty more plants for you to pick from, let’s take a look at a few!
 
-**Herbs:** A great year round option for indoor gardening is having an herb garden \[9\]. If you have a windowsill that gets plenty of sunlight you should have no issue growing a wide variety of herbs. Basil, mint, oregano, mint, chives, sage, rosemary, thyme, cilantro, and parsley are all tasty herbs that you can grow in your apartment \[5,6\]. To successfully grow these plants keep in mind that the pots should be large enough to allow roots to expand, and should also have holes at the bottom to allow for drainage and prevent root rot \[6\]. Herbs should get 4 or more hours of sunlight a day, and optionally a grow light can be used if your apartment doesn’t have enough natural light \[6\]. Keep your soil moist, and use a 5 - 10 - 5 fertilizer \[5\]. You may harvest your herbs (a quarter plant max at a time), consistently throughout the year.
+**Herbs:** A great year round option for indoor gardening is having an herb garden [\[9\]](https://www.theindoorgardens.com/grow-scallions-home/). If you have a windowsill that gets plenty of sunlight you should have no issue growing a wide variety of herbs. Basil, mint, oregano, mint, chives, sage, rosemary, thyme, cilantro, and parsley are all tasty herbs that you can grow in your apartment \[[5](https://homeguides.sfgate.com/grow-parsley-cilantro-inside-65553.html),[6](https://platthillnursery.com/herbs-you-can-grow-inside-all-year/#:\~:text=Basil%2C%20oregano%2C%20mint%2C%20chives,wish%20to%20plant%20them%20now)\]. To successfully grow these plants keep in mind that the pots should be large enough to allow roots to expand, and should also have holes at the bottom to allow for drainage and prevent root rot [\[6\]](https://platthillnursery.com/herbs-you-can-grow-inside-all-year/#:\~:text=Basil%2C%20oregano%2C%20mint%2C%20chives,wish%20to%20plant%20them%20now). Herbs should get 4 or more hours of sunlight a day, and optionally a grow light can be used if your apartment doesn’t have enough natural light [\[6\]](https://platthillnursery.com/herbs-you-can-grow-inside-all-year/#:\~:text=Basil%2C%20oregano%2C%20mint%2C%20chives,wish%20to%20plant%20them%20now). Keep your soil moist, and use a 5 - 10 - 5 fertilizer [\[5\]](https://homeguides.sfgate.com/grow-parsley-cilantro-inside-65553.html). You may harvest your herbs (a quarter plant max at a time), consistently throughout the year.
 
 ![](/uploads/basilblog3.jpg)
 
-**Blueberries:** Blueberries are a great option to grow indoors in an 18’’ or larger container. They need plenty of light, so should be placed by a window, and compact varieties include “dwarf” and “lowbrush” varieties. The plant can be fertilized twice a year (in the spring and fall), and should be watered regularly \[4\].
+**Blueberries:** Blueberries are a great option to grow indoors in an 18’’ or larger container. They need plenty of light, so should be placed by a window, and compact varieties include “dwarf” and “lowbrush” varieties. The plant can be fertilized twice a year (in the spring and fall), and should be watered regularly [\[4\]](https://www.theindoorgardens.com/growing-blueberries-in-pots/#:\~:text=Like%20most%20other%20fruits%2C%20blueberries,the%20plant%20to%20bear%20fruit ).
 
 ![](/uploads/blueberryblog3.jpg)
 
-**Carrots:** For carrots pick a pot that’s at least 10-12 inches deep, spread seeds along the soil, and clip the extra germinated seedlings so that there are seedlings a half an inch apart. Choose the best seedlings to keep when they reach about 3 in. and also begin fertilizing every other week. Harvest the carrots when they are the signature bright orange color \[2\].
+**Carrots:** For carrots pick a pot that’s at least 10-12 inches deep, spread seeds along the soil, and clip the extra germinated seedlings so that there are seedlings a half an inch apart. Choose the best seedlings to keep when they reach about 3 in. and also begin fertilizing every other week. Harvest the carrots when they are the signature bright orange color [\[2\]](https://www.gardeningknowhow.com/edible/vegetables/carrot/indoor-carrot-growing.htm#:\~:text=Place%20your%20potted%20carrots%20in,start%20a%20regular%20feeding%20schedule).
 
 ![](/uploads/carrotblog3.jpg)
 
-**Hot Peppers:** Ornamental hot peppers are an ideal variety to be grown indoors. They can be planted in small containers and transplanted to bigger pots later. They need about 10 - 12 hours of sunlight, and can be placed on your windowsill. They only need water a few times a week, and soil should be left to dry out a little before rewatering. Feel free to fertilize this spicy plant with composted tea \[1\].
+**Hot Peppers:** Ornamental hot peppers are an ideal variety to be grown indoors. They can be planted in small containers and transplanted to bigger pots later. They need about 10 - 12 hours of sunlight, and can be placed on your windowsill. They only need water a few times a week, and soil should be left to dry out a little before rewatering. Feel free to fertilize this spicy plant with composted tea [\[1\]](https://www.gardeningknowhow.com/edible/vegetables/pepper/growing-hot-pepper-plants-inside.htm).
 
 ![](/uploads/hotpepperblog3.jpg)
 
-**Scallions:** Scallion seeds can be planted 0.5 in. deep and 4-6 in. apart in a container. Like hot peppers they can be started in a separate tray and then transplanted. Covering the seeds before they germinate is a good step to keep ideal humidity levels. Additionally, you can reuse the bottom 3 in. of a previous scallion and place it in a cup of water on your windowsill to regrow. If you grow the scallions in a pot keep the soil moist and allow for 6-8 hours of sunlight per day \[8\].
+**Scallions:** Scallion seeds can be planted 0.5 in. deep and 4-6 in. apart in a container. Like hot peppers they can be started in a separate tray and then transplanted. Covering the seeds before they germinate is a good step to keep ideal humidity levels. Additionally, you can reuse the bottom 3 in. of a previous scallion and place it in a cup of water on your windowsill to regrow. If you grow the scallions in a pot keep the soil moist and allow for 6-8 hours of sunlight per day [\[8\]](https://www.theindoorgardens.com/grow-scallions-home/).
 
 ![](/uploads/greenonionblog3.jpg)
 
-**Potatoes:** Potatoes can be started from your old potatoes that have sprouted from their eyes. Cut a chunk of the potato that is about 2 in. and allow it to heal for a couple of days, before planting in a 2.5 gallon container. Keep soil moist, and fertilize with organic fertilizer as desired. Make sure to hill the plant, by creating a mound around the stalk as the plant grows to prevent the potato itself getting light. When the plant is yellow or dying, this is usually a sign that your potatoes are ready for harvest \[7\].
+**Potatoes:** Potatoes can be started from your old potatoes that have sprouted from their eyes. Cut a chunk of the potato that is about 2 in. and allow it to heal for a couple of days, before planting in a 2.5 gallon container. Keep soil moist, and fertilize with organic fertilizer as desired. Make sure to hill the plant, by creating a mound around the stalk as the plant grows to prevent the potato itself getting light. When the plant is yellow or dying, this is usually a sign that your potatoes are ready for harvest [\[7\]](https://properlyrooted.com/grow-potatoes-indoors/#:\~:text=To%20grow%20potatoes%20indoors%2C%20find,more%20soil%20and%20slightly%20water).
 
 ![](/uploads/potatoblog3.jpg)
 
-**Other:** Some other plants that can be grown indoors include tomatoes, leafy greens, potatoes, radishes, and tomatoes \[3\].
+**Other:** Some other plants that can be grown indoors include tomatoes, leafy greens, potatoes, radishes, and tomatoes [\[3\]](https://www.allrecipes.com/article/growing-vegetables-indoors/).
 
 ### Community Gardens:
 
-Now let’s say herbs and simple vegetables aren’t enough for your gardening desires. Another great option for gardening when you’re living without the yard space is to join a community garden. Not only are these garden’s great for meeting like minded people, they also help promote healthier lifestyles and create cleaner environments \[10\]. Click [**here**](https://www.communitygarden.org/garden) to access the American Community Garden Association’s website and find community gardens near you. These gardens allow you more flexibility than your porch or window sill, and are a great way to connect with the people in your neighborhood.
+Now let’s say herbs and simple vegetables aren’t enough for your gardening desires. Another great option for gardening when you’re living without the yard space is to join a community garden. Not only are these garden’s great for meeting like minded people, they also help promote healthier lifestyles and create cleaner environments [\[10\]](https://www.moneycrashers.com/start-community-garden-benefits/). Click [**here**](https://www.communitygarden.org/garden) to access the American Community Garden Association’s website and find community gardens near you. These gardens allow you more flexibility than your porch or window sill, and are a great way to connect with the people in your neighborhood.
 
 **Citations:**
 
