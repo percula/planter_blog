@@ -42,7 +42,7 @@ If you don’t have a patio or porch, don’t fear, there are still options for 
 
 **Scallions:** Scallion seeds can be planted 0.5 in. deep and 4-6 in. apart in a container. Like hot peppers they can be started in a separate tray and then transplanted. Covering the seeds before they germinate is a good step to keep ideal humidity levels. Additionally, you can reuse the bottom 3 in. of a previous scallion and place it in a cup of water on your windowsill to regrow. If you grow the scallions in a pot keep the soil moist and allow for 6-8 hours of sunlight per day \[8\].
 
-**Potatoes:** Potatoes can be started from your old potatoes that have sprouted from their eyes. Cut a chunk of the potato that is about 2 in. and allow to heal for a couple of days, before planting in a 2.5 gallon container. Keep soil moist, and fertilize with organic fertilizer as desired. Make sure to hill the plant, by creating a mound around the stalk as the plant grows to prevent the potato itself getting light. When the plant is yellow or dying, this is usually a sign that your potatoes are ready for harvest \[7\].
+**Potatoes:** Potatoes can be started from your old potatoes that have sprouted from their eyes. Cut a chunk of the potato that is about 2 in. and allow it to heal for a couple of days, before planting in a 2.5 gallon container. Keep soil moist, and fertilize with organic fertilizer as desired. Make sure to hill the plant, by creating a mound around the stalk as the plant grows to prevent the potato itself getting light. When the plant is yellow or dying, this is usually a sign that your potatoes are ready for harvest \[7\].
 
 **Other:** Some other plants that can be grown indoors include tomatoes, leafy greens, potatoes, radishes, and tomatoes \[3\].
 
