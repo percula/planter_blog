@@ -50,7 +50,7 @@ If you don’t have a patio or porch, don’t fear, there are still options for 
 
 Now let’s say herbs and simple vegetables aren’t enough for your gardening desires. Another great option for gardening when you’re living without the yard space is to join a community garden. Not only are these garden’s great for meeting like minded people, they also help promote healthier lifestyles and create cleaner environments \[10\]. Click **here** to access the American Community Garden Association’s website and find community gardens near you. These gardens allow you more flexibility than your porch or window sill, and are a great way to connect with the people in your neighborhood.
 
-Citations
+**Citations:**
 
 \[1\] Badgett, B. (n.d.) I_ndoor Pepper Care: Growing Hot Pepper Plants Inside._ Gardening Know How. [https://www.gardeningknowhow.com/edible/vegetables/pepper/growing-hot-pepper-plants-inside.htm](https://www.gardeningknowhow.com/edible/vegetables/pepper/growing-hot-pepper-plants-inside.htm "https://www.gardeningknowhow.com/edible/vegetables/pepper/growing-hot-pepper-plants-inside.htm")
 
