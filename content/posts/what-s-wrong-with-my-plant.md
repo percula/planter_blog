@@ -48,10 +48,10 @@ Another technique if you can’t catch the offender in the act is to look at the
 ![Mottled leaves](/uploads/mottled-leaves.jpg)  
 ![Mottled leaves underside with aphids](/uploads/aphids-on-leaf.jpg)
 
-It often takes some research and process of elimination to figure out what’s ailing your plants. You won’t always be certain about what’s wrong, but you can still try non-invasive treatments to see if they help. Use the [Notes and Events ](https://info.planter.garden/premium/#notes-and-events)premium features in [Planter](https://planter.garden/) to keep track of your observations, which treatments you try, and the results:
+It often takes some research and process of elimination to figure out what’s ailing your plants. You won’t always be certain about what’s wrong, but you can still try non-invasive treatments to see if they help. Use the [Notes and Events](https://info.planter.garden/premium/#notes-and-events) premium features in [Planter](https://planter.garden/) to keep track of your observations, which treatments you try, and the results:
 
 ![Screenshot of a Note in Planter](/uploads/tomato-note-screenshot.jpg)
 
-Every garden has its problems, but don’t let them shake your gardening confidence. Keep your garden going strong by keeping and eye out for trouble, and above all else keep on planting!
+Every garden has its problems, but don’t let them shake your gardening confidence. Keep your garden going strong by keeping an eye out for trouble, and above all else keep on planting!
 
 {{< affiliate >}}
