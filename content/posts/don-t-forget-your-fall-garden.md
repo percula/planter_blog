@@ -12,7 +12,7 @@ caption = "Seedlings ready to be planted for a fall garden"
 image = "/uploads/fall-seedlings.jpg"
 
 +++
-It’s hard to think about cooler fall days when it feels like summer’s only just getting underway, but gardeners are always planning ahead. While the tomatoes are ripening and the peppers are plumping, it’s time to start brainstorming which seeds to buy and seedlings to plant for the next phase of the growing season. It can feel overwhelming to keep your existing plants going through the stresses of summer and to think about starting new plants,
+It’s hard to think about cooler fall days when it feels like summer’s only just getting underway, but gardeners are always planning ahead. While the tomatoes are ripening and the peppers are plumping, it’s time to start brainstorming which seeds to buy and seedlings to plant for the next phase of the growing season. It can feel overwhelming to keep your existing plants going through the stresses of summer and to think about starting new plants, but the fall gardening season is not to be missed!
 
 ### Why plant a fall garden?
 
