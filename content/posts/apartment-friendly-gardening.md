@@ -44,7 +44,7 @@ If you have a patio or porch, you’ll be happy to know that you still have plen
 
 ### Indoor Gardening:
 
-If you don’t have a patio or porch, don’t fear, there are still options for you to use your green thumb. Several plants that can be grown on your patio can also be grown indoors, such as tomatoes and lettuce. There are plenty more plants for you to pick from, let’s take a look at a few!
+If you don’t have a patio or porch, don’t fear, there are still options for you to use your green thumb. Several plants that can be grown on your patio can also be grown indoors, such as tomatoes and lettuce. There are plenty more plants for you to pick from; let’s take a look at a few!
 
 **Herbs:** A great year round option for indoor gardening is having an herb garden. If you have a windowsill that gets plenty of sunlight you should have no issue growing a wide variety of herbs. Basil, mint, oregano, mint, chives, sage, rosemary, thyme, cilantro, and parsley are all tasty herbs that you can grow in your apartment. To successfully grow these plants, keep in mind that the pots should be large enough to allow roots to expand, and should also have holes at the bottom to allow for drainage and prevent root rot. Herbs should receive full sun and optionally a grow light can be used if the location doesn’t get enough natural light. Keep your soil moist and feed the herbs with a 5% nitrogen fertilizer, and you'll have a plant ready for light harvesting throughout the year [\[1\]](https://homeguides.sfgate.com/grow-parsley-cilantro-inside-65553.html)! Be careful not to over-harvest; try to stick to less than a quarter of the plant's mass at once.
 
