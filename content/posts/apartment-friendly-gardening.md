@@ -1,7 +1,6 @@
 +++
 author = "Abigail Bar"
 date = 2022-07-18T04:00:00Z
-draft = true
 override_position = false
 plants = []
 title = "Apartment Friendly Gardening"
