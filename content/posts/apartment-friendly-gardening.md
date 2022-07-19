@@ -40,7 +40,7 @@ If you have a patio or porch, you’ll be happy to know that you still have plen
 
 ![](/uploads/snappeablog3.jpg)
 
-Some other plants that can be grown in containers on your porch include squash, hot peppers, arugula, and eggplant
+**Other:** Some other plants that can be grown in containers on your porch include squash, hot peppers, arugula, and eggplant
 
 ### Indoor Gardening:
 
