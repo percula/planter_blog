@@ -38,10 +38,12 @@ Most cool season vegetables grow well in fall, so long as they are started with 
 
 ### When should I plant my fall garden?
 
-To sort out when to get your seeds started and your transplants planted out for your fall garden, check the **Growing Calendar** in [Planter](https://planter.garden/):
+To sort out when to get your seeds started and your transplants planted out for your fall garden, look for **Cool** season plants in [Planter](https://planter.garden/):
 
-![Screenshot of the Growing Calendar for Arugula](/uploads/growing-calendar-arugula.jpg)
+![](/uploads/broccoli-quick-info.jpg)
 
-There is a lot to tend to in the garden in the midst of summer, but it’s also time to plan ahead and start planting for fall. [Planter](https://planter.garden/) makes it easy to figure out which crops to plant when for fall harvests, so you can spend your time getting out in the garden!
+Then, look at the number of days needed for **Germination** and the number of days from **Sprout to Harvest** for that plant. Work backwards from your [first frost date](https://blog.planter.garden/posts/know-where-you-grow-hardiness-zones-and-frost-dates/) to determine when you need to plant to ensure there is still enough time for the plant to mature and produce a harvest. While frost-tolerant plants can keep growing past your first frost date, it is good to get your fall crops planted with a bit of extra time in case of slower growth or extreme weather conditions.
+
+There is a lot to tend to in the garden in the midst of summer, but it’s also time to plan ahead and start planting for fall. [Planter](https://planter.garden/) makes it easy to figure out which crops can be planted for fall harvests, so you can spend more time getting out in the garden!
 
 {{< Affiliate >}}
