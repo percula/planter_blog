@@ -22,7 +22,7 @@ In some ways, fall crops can be easier to grow than spring crops as the ground i
 
 Another advantage of planting cool season crops in fall is that some of them, such as carrots, parsnips, beets, cabbage, and kale, will actually sweeten up after enduring a frost!
 
-![](https://lh6.googleusercontent.com/gJb_UE4aAnPHKLJWFmCjsVikydcRowTZkbCwmLNAbTxfG_pG-L-U8nYQ9pWO7ZJMZeS0thUpntWJSwm5-e-LubQrv_5YypgasvPGEuoah_hV-rJiTfxwYPj_3CA-6NFsrZfI0Fi4k9D3CZP09l4d-GY =624x416)
+![Kale plant with a fallen leaf on it](https://lh6.googleusercontent.com/gJb_UE4aAnPHKLJWFmCjsVikydcRowTZkbCwmLNAbTxfG_pG-L-U8nYQ9pWO7ZJMZeS0thUpntWJSwm5-e-LubQrv_5YypgasvPGEuoah_hV-rJiTfxwYPj_3CA-6NFsrZfI0Fi4k9D3CZP09l4d-GY =624x416)
 
 ### What plants can I grow in fall?
 
@@ -40,7 +40,7 @@ Most cool season vegetables grow well in fall, so long as they are started with 
 
 To sort out when to get your seeds started and your transplants planted out for your fall garden, look for **Cool** season plants in [Planter](https://planter.garden/):
 
-![](/uploads/broccoli-quick-info.jpg)
+![Screenshot of Quick Info cards for broccoli](/uploads/broccoli-quick-info.jpg)
 
 Then, look at the number of days needed for **Germination** and the number of days from **Sprout to Harvest** for that plant. Work backwards from your [first frost date](https://blog.planter.garden/posts/know-where-you-grow-hardiness-zones-and-frost-dates/) to determine when you need to plant to ensure there is still enough time for the plant to mature and produce a harvest. While frost-tolerant plants can keep growing past your first frost date, it is good to get your fall crops planted with a bit of extra time in case of slower growth or extreme weather conditions.
 
